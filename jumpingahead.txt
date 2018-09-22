@@ -1,0 +1,1761 @@
+total 354388
+lrwxrwxrwx 1 0   0        8 Dec 21  2013 2to3 -> 2to3-2.7
+-rwxr-xr-x 1 0   0      106 Oct 22  2014 2to3-2.6
+-rwxr-xr-x 1 0   0       96 Oct 26  2016 2to3-2.7
+-rwxr-xr-x 1 0   0       96 Jan 28  2015 2to3-3.3
+-rwxr-xr-x 1 0   0       96 Nov 17  2016 2to3-3.4
+-rwxr-xr-x 1 0   0       96 Jul 17  2016 2to3-3.5
+-rwxr-xr-x 1 0   0       96 Jan 13  2017 2to3-3.6
+-rwxr-xr-x 1 0   0     1257 Feb 22  2017 Magick++-config
+-rwxr-xr-x 1 0   0     1223 Feb 22  2017 Magick-config
+-rwxr-xr-x 1 0   0     1231 Feb 22  2017 MagickCore-config
+-rwxr-xr-x 1 0   0     1236 Feb 22  2017 MagickWand-config
+-rwxr-xr-x 1 0   0     8589 Oct 25  2013 R
+-rwxr-xr-x 1 0   0    10424 Oct 25  2013 Rscript
+-rwxr-xr-x 1 0   0     1218 Feb 22  2017 Wand-config
+lrwxrwxrwx 1 0   0        1 Dec 10  2014 X11 -> .
+-rwxr-xr-x 1 0   0  1964904 Feb 12  2015 Xvfb
+-rwxr-xr-x 1 0   0    39552 Mar 10  2016 [
+-rwxr-xr-x 1 0   0   106296 Mar  1  2016 a2p
+lrwxrwxrwx 1 0   0       52 Feb 20  2014 a2ping -> ../share/texlive/texmf-dist/scripts/a2ping/a2ping.pl
+-rwxr-xr-x 1 0   0    36992 Mar 20  2014 a2x
+-rwxr-xr-x 1 0   0      883 Apr 30  2007 a5booklet
+lrwxrwxrwx 1 0   0       54 Feb 20  2014 a5toa4 -> ../share/texlive/texmf-dist/scripts/pfarrei/a5toa4.tlu
+-rwxr-xr-x 1 0   0     6144 Jul 18  2014 abiword
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 aclocal -> /etc/alternatives/aclocal
+-rwxr-xr-x 1 0   0    36792 Jan  2  2014 aclocal-1.14
+-rwxr-xr-x 1 0   0    10480 Dec  5  2014 acyclic
+-rwxr-xr-x 1 0   0    22920 Jan 22  2014 addftinfo
+-rwxr-xr-x 1 0   0     6280 Nov 23  2016 addpart
+-rwxr-xr-x 1 0   0    27696 May  2  2016 addr2line
+lrwxrwxrwx 1 0   0       66 Feb 20  2014 adhocfilelist -> ../share/texlive/texmf-dist/scripts/adhocfilelist/adhocfilelist.sh
+lrwxrwxrwx 1 0   0       52 Feb 20  2014 afm2afm -> ../share/texlive/texmf-dist/scripts/fontools/afm2afm
+-rwxr-xr-x 1 0   0    31424 Jan 22  2014 afm2pl
+-rwxr-xr-x 1 0   0    38008 Jan 22  2014 afm2tfm
+-rwxr-xr-x 1 0   0   165872 Jan 22  2014 afmtodit
+-rwxr-xr-x 1 0   0   491664 Jan 22  2014 aleph
+-rwxr-xr-x 1 0   0  2214712 Oct 21  2013 alex
+-rwxr-xr-x 1 0   0   295832 Dec  8  2013 alimask
+lrwxrwxrwx 1 0   0       52 Feb 17  2014 allcm -> ../share/texlive/texmf-dist/scripts/texlive/allcm.sh
+lrwxrwxrwx 1 0   0        5 Feb 17  2014 allec -> allcm
+lrwxrwxrwx 1 0   0       56 Feb 17  2014 allneeded -> ../share/texlive/texmf-dist/scripts/texlive/allneeded.sh
+lrwxrwxrwx 1 0   0        6 Feb 20  2014 amstex -> pdftex
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 animate -> /etc/alternatives/animate
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 animate.im6
+-rwxr-xr-x 1 0   0     3535 Apr  7  2014 aot-compile
+lrwxrwxrwx 1 0   0       30 Mar  3  2017 appletviewer -> /etc/alternatives/appletviewer
+lrwxrwxrwx 1 0   0        6 Sep 23  2014 apropos -> whatis
+-rwxr-xr-x 1 0   0    14832 Dec  8  2016 apt
+-rwxr-xr-x 1 0   0   113952 Dec  8  2016 apt-cache
+-rwxr-xr-x 1 0   0    27264 Dec  8  2016 apt-cdrom
+-rwxr-xr-x 1 0   0    18984 Dec  8  2016 apt-config
+-rwxr-xr-x 1 0   0    23224 Dec  8  2016 apt-extracttemplates
+-rwxr-xr-x 1 0   0   212720 Dec  8  2016 apt-ftparchive
+-rwxr-xr-x 1 0   0   134968 Dec  8  2016 apt-get
+-rwxr-xr-x 1 0   0    11838 Dec  8  2016 apt-key
+-rwxr-xr-x 1 0   0    47992 Dec  8  2016 apt-mark
+-rwxr-xr-x 1 0   0    31256 Dec  8  2016 apt-sortpkgs
+-rwxr-xr-x 1 0   0    60432 May  2  2016 ar
+lrwxrwxrwx 1 0   0       50 Feb 20  2014 arara -> ../share/texlive/texmf-dist/scripts/arara/arara.sh
+-rwxr-xr-x 1 0   0    31360 Mar 10  2016 arch
+lrwxrwxrwx 1 0   0       53 Feb 20  2014 arlatex -> ../share/texlive/texmf-dist/scripts/bundledoc/arlatex
+-rwxr-xr-x 1 0   0   356952 May  2  2016 as
+-rwxr-xr-x 1 0   0   254199 Mar 20  2014 asciidoc
+-rwxr-xr-x 1 0   0   159440 Dec 15  2013 aspell
+-rwxr-xr-x 1 0   0     2044 Dec 15  2013 aspell-import
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 assistant -> qtchooser
+lrwxrwxrwx 1 0   0       59 Feb 20  2014 authorindex -> ../share/texlive/texmf-dist/scripts/authorindex/authorindex
+-rwxr-xr-x 1 0   0    14768 Apr 10  2014 autoconf
+-rwxr-xr-x 1 0   0     8536 Apr 10  2014 autoheader
+lrwxrwxrwx 1 0   0       53 Feb 20  2014 autoinst -> ../share/texlive/texmf-dist/scripts/fontools/autoinst
+-rwxr-xr-x 1 0   0    32671 Apr 10  2014 autom4te
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 automake -> /etc/alternatives/automake
+-rwxr-xr-x 1 0   0   253260 Jan  2  2014 automake-1.14
+-rwxr-xr-x 1 0   0    21068 Apr 10  2014 autoreconf
+-rwxr-xr-x 1 0   0    17125 Apr 10  2014 autoscan
+-rwxr-xr-x 1 0   0    33874 Apr 10  2014 autoupdate
+-rwxr-xr-x 1 0   0   131080 Dec  7  2016 avconv
+-rwxr-xr-x 1 0   0    89896 Dec  7  2016 avplay
+-rwxr-xr-x 1 0   0    64656 Dec  7  2016 avprobe
+-rwxr-xr-x 1 0   0  7796408 Dec  7  2016 avserver
+lrwxrwxrwx 1 0   0       21 Jun 24  2016 awk -> /etc/alternatives/awk
+-rwxr-xr-x 1 0   0    35456 Mar 10  2016 base64
+-rwxr-xr-x 1 0   0    27208 Mar 10  2016 basename
+-rwxr-xr-x 1 0   0     6965 Oct  7  2014 bashbug
+-rwxr-xr-x 1 0   0    85168 Mar 19  2014 bc
+-rwxr-xr-x 1 0   0    14736 Dec  5  2014 bcomps
+-rwxr-xr-x 1 0   0    60800 Jan 13  2014 beanstalkd
+-rwxr-xr-x 1 0   0     1216 Dec 28  2013 bg5+latex
+-rwxr-xr-x 1 0   0     1222 Dec 28  2013 bg5+pdflatex
+-rwxr-xr-x 1 0   0     6256 Dec 28  2013 bg5conv
+-rwxr-xr-x 1 0   0     1216 Dec 28  2013 bg5latex
+-rwxr-xr-x 1 0   0     1222 Dec 28  2013 bg5pdflatex
+lrwxrwxrwx 1 0   0       58 Feb 20  2014 bibexport -> ../share/texlive/texmf-dist/scripts/bibexport/bibexport.sh
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 bibtex -> /etc/alternatives/bibtex
+-rwxr-xr-x 1 0   0   104960 Jan 22  2014 bibtex.original
+-rwxr-xr-x 1 0   0   130032 Jan 22  2014 bibtex8
+-rwxr-xr-x 1 0   0   134192 Jan 22  2014 bibtexu
+-rwxr-xr-x 1 0   0   389952 Dec 17  2013 bison
+-rwxr-xr-x 1 0   0       41 Dec 17  2013 bison.yacc
+-rwxr-xr-x 1 0   0   457104 Jan 25  2017 botti
+lrwxrwxrwx 1 0   0       35 Mar  3  2017 bower -> ../lib/node_modules/bower/bin/bower
+-rwxr-xr-x 1 0   0    10456 Jun  4  2013 bsd-from
+-rwxr-sr-x 1 0   5    14688 Jun  4  2013 bsd-write
+-rwxr-xr-x 1 0   0    27440 Sep 11  2013 bsqldb
+-rwxr-xr-x 1 0   0    23024 Sep 11  2013 bsqlodbc
+lrwxrwxrwx 1 0   0       55 Feb 20  2014 bundledoc -> ../share/texlive/texmf-dist/scripts/bundledoc/bundledoc
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 c++ -> /etc/alternatives/c++
+-rwxr-xr-x 1 0   0    27176 May  2  2016 c++filt
+-rwxr-xr-x 1 0   0    36607 Mar  1  2016 c2ph
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 c89 -> /etc/alternatives/c89
+-rwxr-xr-x 1 0   0      428 May  7  2006 c89-gcc
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 c99 -> /etc/alternatives/c99
+-rwxr-xr-x 1 0   0      454 Apr 11  2011 c99-gcc
+-rwxr-xr-x 1 0   0     4660 Jan 30  2017 c_rehash
+-rwxr-xr-x 1 0   0  9622976 May 31  2013 cabal
+lrwxrwxrwx 1 0   0       57 Feb 17  2014 cachepic -> ../share/texlive/texmf-dist/scripts/cachepic/cachepic.tlu
+lrwxrwxrwx 1 0   0        4 Jun  4  2013 cal -> ncal
+-rwxr-xr-x 1 0   0    27808 Jun  4  2013 calendar
+lrwxrwxrwx 1 0   0        3 Mar 22  2014 captoinfo -> tic
+-rwxr-xr-x 1 0   0     3332 May 26  2016 catchsegv
+-rwxr-xr-x 1 0   0    39384 Sep 23  2014 catman
+-rwxr-xr-x 1 0   0      853 Jan  6  2015 cautious-launcher
+lrwxrwxrwx 1 0   0       20 Mar  3  2017 cc -> /etc/alternatives/cc
+lrwxrwxrwx 1 0   0       14 Feb 25  2014 ccache-swig -> ccache-swig2.0
+-rwxr-xr-x 1 0   0    47856 Feb 25  2014 ccache-swig2.0
+-rwxr-xr-x 1 0   0    23024 Dec  5  2014 ccomps
+-rwxr-xr-x 1 0   0    10376 Dec 28  2013 cef5conv
+-rwxr-xr-x 1 0   0     1217 Dec 28  2013 cef5latex
+-rwxr-xr-x 1 0   0     1223 Dec 28  2013 cef5pdflatex
+-rwxr-xr-x 1 0   0    10376 Dec 28  2013 cefconv
+-rwxr-xr-x 1 0   0     1216 Dec 28  2013 ceflatex
+-rwxr-xr-x 1 0   0     1222 Dec 28  2013 cefpdflatex
+-rwxr-xr-x 1 0   0    10376 Dec 28  2013 cefsconv
+-rwxr-xr-x 1 0   0     1217 Dec 28  2013 cefslatex
+-rwxr-xr-x 1 0   0     1220 Dec 28  2013 cefspdflatex
+-rwxr-xr-x 1 0   0   342752 Feb 12  2013 cfftot1
+-rwxr-sr-x 1 0  42    55000 Jan 27  2016 chage
+-rwxr-xr-x 1 0   0    10528 Sep  9  2015 chattr
+-rwxr-xr-x 1 0   0    60224 Mar 10  2016 chcon
+-rwxr-xr-x 1 0   0    93080 Jan 30  2014 check-regexp
+lrwxrwxrwx 1 0   0       61 Feb 17  2014 checkcites -> ../share/texlive/texmf-dist/scripts/checkcites/checkcites.lua
+-rwxr-xr-x 1 0   0    83823 Mar 12  2013 checkinstall
+-rwxr-xr-x 1 0   0    29390 Jan 22  2014 chem
+-rwsr-xr-x 1 0   0    46424 Jan 27  2016 chfn
+-rwxr-xr-x 1 0   0     3676 Nov 23  2016 chkdupexe
+-rwxr-xr-x 1 0   0    67376 Jul  2  2013 chktex
+-rwxr-xr-x 1 0   0     1313 Jul  2  2013 chkweb
+-rwxr-xr-x 1 0   0     7071 Nov 14  2016 chromium-browser
+-rwxr-xr-x 1 0   0    18792 Nov 23  2016 chrt
+-rwsr-xr-x 1 0   0    41336 Jan 27  2016 chsh
+lrwxrwxrwx 1 0   0        3 Dec  5  2014 circo -> dot
+-rwxr-xr-x 1 0   0   118756 Jan 29  2014 ckbcomp
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 cksum
+-rwxr-xr-x 1 0   0     6256 Mar 22  2014 clear
+-rwxr-xr-x 1 0   0    10448 Oct  7  2014 clear_console
+-rwxr-xr-x 1 0   0    10320 Apr  4  2014 clisp
+-rwxr-xr-x 1 0   0    19708 Apr  4  2014 clisp-link
+-rwxr-xr-x 1 0   0   397000 Dec  5  2014 cluster
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 clusterdb -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0  4002704 Mar 19  2014 cmake
+-rwxr-xr-x 1 0   0    43640 Oct 21  2013 cmp
+-rwxr-xr-x 1 0   0    10480 Feb 18  2013 codepage
+-rwxr-xr-x 1 0   0    10440 Jun  4  2013 col
+-rwxr-xr-x 1 0   0    10408 Jun  4  2013 colcrt
+-rwxr-xr-x 1 0   0    17503 Jun 25  2012 collateindex.pl
+-rwxr-xr-x 1 0   0    10408 Jun  4  2013 colrm
+-rwxr-xr-x 1 0   0    14640 Jun  4  2013 column
+-rwxr-xr-x 1 0   0    35424 Mar 10  2016 comm
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 compare -> /etc/alternatives/compare
+-rwxr-xr-x 1 0   0     6328 Feb 22  2017 compare.im6
+lrwxrwxrwx 1 0   0       11 Jan  6  2015 compose -> run-mailcap
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 composite -> /etc/alternatives/composite
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 composite.im6
+-rwxr-xr-x 1 0   0     7230 Mar  1  2016 config_data
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 conjure -> /etc/alternatives/conjure
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 conjure.im6
+-rwxr-xr-x 1 0   0       39 Jul 31  2013 context
+lrwxrwxrwx 1 0   0       56 Feb 17  2014 convbkmk -> ../share/texlive/texmf-dist/scripts/convbkmk/convbkmk.rb
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 convert -> /etc/alternatives/convert
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 convert.im6
+-rwxr-xr-x 1 0   0    12755 Mar  1  2016 corelist
+-rwxr-xr-x 1 0   0  4272304 Mar 19  2014 cpack
+-rwxr-xr-x 1 0   0     5860 Mar  1  2016 cpan
+-rwxr-xr-x 1 0   0    21824 Mar  1  2016 cpan2dist
+-rwxr-xr-x 1 0   0     3398 Mar  1  2016 cpanp
+-rwxr-xr-x 1 0   0      545 Mar  1  2016 cpanp-run-perl
+lrwxrwxrwx 1 0   0        7 Apr  7  2014 cpp -> cpp-4.8
+-rwxr-xr-x 1 0   0   775888 May  7  2016 cpp-4.8
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 createdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 createlang -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 createuser -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0   473696 Jun  8  2012 crm
+-rwxr-sr-x 1 0 103    35984 Feb  9  2013 crontab
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 cslatex -> pdftex
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 csplain -> pdftex
+-rwxr-xr-x 1 0   0    47904 Mar 10  2016 csplit
+-rwxr-xr-x 1 0   0    14520 Jun  8  2012 cssdiff
+-rwxr-xr-x 1 0   0    14560 Jun  8  2012 cssmerge
+-rwxr-xr-x 1 0   0    22824 Jun  8  2012 cssutil
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 ctags -> /etc/alternatives/ctags
+-rwxr-xr-x 1 0   0   250224 Oct  7  2014 ctags-exuberant
+-rwxr-xr-x 1 0   0   101440 Mar  7  2014 ctags.emacs24
+-rwxr-xr-x 1 0   0    39656 Jan 22  2014 ctangle
+lrwxrwxrwx 1 0   0       51 Feb 20  2014 ctanify -> ../share/texlive/texmf-dist/scripts/ctanify/ctanify
+lrwxrwxrwx 1 0   0       60 Feb 20  2014 ctanupload -> ../share/texlive/texmf-dist/scripts/ctanupload/ctanupload.pl
+-rwxr-xr-x 1 0   0  5105072 Mar 19  2014 ctest
+-rwxr-xr-x 1 0   0    18784 Jan 22  2014 ctie
+lrwxrwxrwx 1 0   0        6 Jul 23  2015 ctstat -> lnstat
+-rwxr-xr-x 1 0   0       40 Jul 31  2013 ctxtools
+-rwxr-xr-x 1 0   0   186312 Sep 24  2016 curl
+-rwxr-xr-x 1 0   0     6160 Sep 24  2016 curl-config
+-rwxr-xr-x 1 0   0    43680 Mar 10  2016 cut
+-rwxr-xr-x 1 0   0    76552 Jan 22  2014 cweave
+-rwxr-xr-x 1 0   0    14864 Jan 14  2014 cx18-ctl
+-rwxr-xr-x 1 0   0    23016 Sep 11  2013 datacopy
+lrwxrwxrwx 1 0   0       11 Oct 29  2012 db2dvi -> docbook2dvi
+-rwxr-xr-x 1 0   0      493 Sep 12  2012 db2html
+lrwxrwxrwx 1 0   0       11 Oct 29  2012 db2pdf -> docbook2pdf
+lrwxrwxrwx 1 0   0       10 Oct 29  2012 db2ps -> docbook2ps
+lrwxrwxrwx 1 0   0       11 Oct 29  2012 db2rtf -> docbook2rtf
+-rwxr-xr-x 1 0   0     1465 Nov  5  2013 dbilogstrip
+-rwxr-xr-x 1 0   0     6291 Nov  5  2013 dbiprof
+-rwxr-xr-x 1 0   0     5479 Nov  5  2013 dbiproxy
+-rwxr-xr-x 1 0   0    27296 Dec  7  2016 dbus-launch
+-rwxr-xr-x 1 0   0    14744 Dec  7  2016 dbus-monitor
+-rwxr-xr-x 1 0   0    18976 Dec  7  2016 dbus-send
+-rwxr-xr-x 1 0   0    11000 Nov 23  2016 ddate
+lrwxrwxrwx 1 0   0       53 Feb 20  2014 de-macro -> ../share/texlive/texmf-dist/scripts/de-macro/de-macro
+-rwxr-xr-x 1 0   0    10488 Feb 18  2013 deallocvt
+-rwxr-xr-x 1 0   0    17955 Feb 25  2014 deb-systemd-helper
+-rwxr-xr-x 1 0   0     3029 Jun 26  2013 deb-systemd-invoke
+-rwxr-xr-x 1 0   0     2859 Feb 23  2014 debconf
+-rwxr-xr-x 1 0   0    11541 Feb 23  2014 debconf-apt-progress
+-rwxr-xr-x 1 0   0      608 Feb 23  2014 debconf-communicate
+-rwxr-xr-x 1 0   0     1719 Feb 23  2014 debconf-copydb
+-rwxr-xr-x 1 0   0      647 Feb 23  2014 debconf-escape
+-rwxr-xr-x 1 0   0     2935 Feb 23  2014 debconf-set-selections
+-rwxr-xr-x 1 0   0     1827 Feb 23  2014 debconf-show
+-rwxr-xr-x 1 0   0    23152 Jan 14  2014 decode_tm6000
+-rwxr-xr-x 1 0   0    19248 Sep 11  2013 defncopy
+-rwxr-xr-x 1 0   0     6272 Nov 23  2016 delpart
+lrwxrwxrwx 1 0   0       60 Feb 20  2014 depythontex -> ../share/texlive/texmf-dist/scripts/pythontex/depythontex.py
+-rwxr-xr-x 1 0   0      275 Feb 20  2014 depythontex3
+-rwxr-xr-x 1 0   0    18792 Sep 11  2015 derb
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 designer -> qtchooser
+-rwxr-xr-x 1 0   0    47408 Jan 22  2014 detex
+-rwxr-xr-x 1 0   0    33200 Jan 22  2014 devnag
+-rwxr-xr-x 1 0   0     2187 Jul  2  2013 deweb
+-rwxr-xr-x 1 0   0     1365 Aug 11  2013 dh_autotools-dev_restoreconfig
+-rwxr-xr-x 1 0   0     1379 Aug 11  2013 dh_autotools-dev_updateconfig
+-rwxr-xr-x 1 0   0     2534 Mar 22  2014 dh_bash-completion
+-rwxr-xr-x 1 0   0     3170 Apr 23  2013 dh_gstscancodecs
+-rwxr-xr-x 1 0   0     7290 Feb 12  2016 dh_gtkmodules
+-rwxr-xr-x 1 0   0    22759 Jun 15  2013 dh_installtex
+-rwxr-xr-x 1 0   0     9664 Nov  7  2012 dh_installxmlcatalogs
+-rwxr-xr-x 1 0   0     2513 Apr  7  2014 dh_nativejava
+-rwxr-xr-x 1 0   0     4628 Jul 15  2014 dh_pangomodules
+-rwxr-xr-x 1 0   0     1065 Nov  5  2013 dh_perl_dbi
+lrwxrwxrwx 1 0   0       26 Jul 16  2015 dh_pypy -> ../share/dh-python/dh_pypy
+-rwxr-xr-x 1 0   0    12232 Jun 30  2012 dh_pysupport
+-rwxr-xr-x 1 0   0     1056 Dec 21  2013 dh_python2
+lrwxrwxrwx 1 0   0       29 Jul 16  2015 dh_python3 -> ../share/dh-python/dh_python3
+-rwxr-xr-x 1 0   0     1931 Jan 14  2014 dh_xine
+-rwxr-xr-x 1 0   0   125960 Oct 21  2013 diff
+-rwxr-xr-x 1 0   0    56104 Oct 21  2013 diff3
+-rwxr-xr-x 1 0   0    10488 Dec  5  2014 diffimg
+-rwxr-xr-x 1 0   0   124968 Feb 15  2017 dig
+-rwxr-xr-x 1 0   0    14800 Dec  5  2014 dijkstra
+-rwxr-xr-x 1 0   0    39560 Mar 10  2016 dircolors
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 dirname
+-rwxr-xr-x 1 0   0    18640 Jan 22  2014 disdvi
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 display -> /etc/alternatives/display
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 display.im6
+-rwxr-xr-x 1 0   0       37 Oct 29  2012 docbook2dvi
+-rwxr-xr-x 1 0   0       38 Oct 29  2012 docbook2html
+-rwxr-xr-x 1 0   0       37 Oct 29  2012 docbook2man
+-rwxr-xr-x 1 0   0       37 Oct 29  2012 docbook2pdf
+-rwxr-xr-x 1 0   0       36 Oct 29  2012 docbook2ps
+-rwxr-xr-x 1 0   0       37 Oct 29  2012 docbook2rtf
+-rwxr-xr-x 1 0   0       37 Oct 29  2012 docbook2tex
+-rwxr-xr-x 1 0   0       38 Oct 29  2012 docbook2texi
+-rwxr-xr-x 1 0   0       37 Oct 29  2012 docbook2txt
+lrwxrwxrwx 1 0   0       58 Feb 20  2014 dosepsbin -> ../share/texlive/texmf-dist/scripts/dosepsbin/dosepsbin.pl
+-rwxr-xr-x 1 0   0    10480 Dec  5  2014 dot
+lrwxrwxrwx 1 0   0        6 Dec  5  2014 dot2gxl -> gxl2gv
+-rwxr-xr-x 1 0   0    10616 Dec  5  2014 dot_builtins
+-rwxr-sr-x 1 0   8    14856 Dec  7  2013 dotlockfile
+-rwxr-xr-x 1 0   0     2085 Dec  5  2014 dotty
+-rwxr-xr-x 1 0   0   261840 Jun 15  2016 dpkg
+-rwxr-xr-x 1 0   0     8977 Jun 15  2016 dpkg-architecture
+-rwxr-xr-x 1 0   0     6179 Jun 15  2016 dpkg-buildflags
+-rwxr-xr-x 1 0   0    17588 Jun 15  2016 dpkg-buildpackage
+-rwxr-xr-x 1 0   0     7250 Jun 15  2016 dpkg-checkbuilddeps
+-rwxr-xr-x 1 0   0   126288 Jun 15  2016 dpkg-deb
+-rwxr-xr-x 1 0   0     3251 Jun 15  2016 dpkg-distaddfile
+-rwxr-xr-x 1 0   0   130352 Jun 15  2016 dpkg-divert
+-rwxr-xr-x 1 0   0    17169 Jun 15  2016 dpkg-genchanges
+-rwxr-xr-x 1 0   0    14284 Jun 15  2016 dpkg-gencontrol
+-rwxr-xr-x 1 0   0    10501 Jun 15  2016 dpkg-gensymbols
+-rwxr-xr-x 1 0   0    17218 Jun 15  2016 dpkg-maintscript-helper
+-rwxr-xr-x 1 0   0     8492 Jun 15  2016 dpkg-mergechangelogs
+-rwxr-xr-x 1 0   0     6682 Jun 15  2016 dpkg-name
+-rwxr-xr-x 1 0   0     4195 Jun 15  2016 dpkg-parsechangelog
+-rwxr-xr-x 1 0   0   134400 Jun 15  2016 dpkg-query
+-rwxr-xr-x 1 0   0     7889 Jun 15  2016 dpkg-scanpackages
+-rwxr-xr-x 1 0   0     9799 Jun 15  2016 dpkg-scansources
+-rwxr-xr-x 1 0   0    29722 Jun 15  2016 dpkg-shlibdeps
+-rwxr-xr-x 1 0   0    18418 Jun 15  2016 dpkg-source
+-rwxr-xr-x 1 0   0    60304 Jun 15  2016 dpkg-split
+-rwxr-xr-x 1 0   0    56240 Jun 15  2016 dpkg-statoverride
+-rwxr-xr-x 1 0   0    68496 Jun 15  2016 dpkg-trigger
+-rwxr-xr-x 1 0   0     3243 Jun 15  2016 dpkg-vendor
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 dropdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 droplang -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 dropuser -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0    37496 Jan 22  2014 dt2dv
+-rwxr-xr-x 1 0   0    18792 Jul  3  2012 dtach
+lrwxrwxrwx 1 0   0       49 Feb 20  2014 dtxgen -> ../share/texlive/texmf-dist/scripts/dtxgen/dtxgen
+-rwxr-xr-x 1 0   0   109568 Mar 10  2016 du
+lrwxrwxrwx 1 0   0       13 Feb 18  2013 dumpkeys -> /bin/dumpkeys
+-rwxr-xr-x 1 0   0    16144 Jan 22  2014 dv2dt
+lrwxrwxrwx 1 0   0       54 Feb 17  2014 dvi2fax -> ../share/texlive/texmf-dist/scripts/texlive/dvi2fax.sh
+-rwxr-xr-x 1 0   0    35784 Jan 22  2014 dvi2tty
+lrwxrwxrwx 1 0   0       52 Feb 20  2014 dviasm -> ../share/texlive/texmf-dist/scripts/dviasm/dviasm.py
+-rwxr-xr-x 1 0   0    27752 Jan 22  2014 dvibook
+-rwxr-xr-x 1 0   0    23688 Jan 22  2014 dviconcat
+-rwxr-xr-x 1 0   0    55688 Jan 22  2014 dvicopy
+-rwxr-xr-x 1 0   0    19608 Apr 30  2007 dvidvi
+lrwxrwxrwx 1 0   0        6 Oct 21  2013 dvigif -> dvipng
+-rwxr-xr-x 1 0   0     4598 Jan 22  2014 dvihp
+-rwxr-xr-x 1 0   0    52216 Jan 22  2014 dvilj
+-rwxr-xr-x 1 0   0    52216 Jan 22  2014 dvilj2p
+-rwxr-xr-x 1 0   0    60432 Jan 22  2014 dvilj4
+-rwxr-xr-x 1 0   0    60432 Jan 22  2014 dvilj4l
+lrwxrwxrwx 1 0   0        6 Jan 22  2014 dvilj6 -> dvilj4
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 dvilualatex -> luatex
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 dviluatex -> luatex
+-rwxr-xr-x 1 0   0     1023 Dec  7  2016 dvipdf
+lrwxrwxrwx 1 0   0        8 Jan 22  2014 dvipdfm -> dvipdfmx
+-rwxr-xr-x 1 0   0   601456 Jan 22  2014 dvipdfmx
+-rwxr-xr-x 1 0   0     2688 Jan 22  2014 dvipdft
+-rwxr-xr-x 1 0   0    99920 Oct 21  2013 dvipng
+-rwxr-xr-x 1 0   0    43824 Jan 22  2014 dvipos
+-rwxr-xr-x 1 0   0   201424 Jan 22  2014 dvips
+lrwxrwxrwx 1 0   0       53 Feb 17  2014 dvired -> ../share/texlive/texmf-dist/scripts/texlive/dvired.sh
+-rwxr-xr-x 1 0   0    23592 Jan 22  2014 dviselect
+-rwxr-xr-x 1 0   0   647840 Jan 22  2014 dvisvgm
+-rwxr-xr-x 1 0   0    31880 Jan 22  2014 dvitodvi
+lrwxrwxrwx 1 0   0        5 Jan 22  2014 dvitomp -> mpost
+-rwxr-xr-x 1 0   0    43456 Jan 22  2014 dvitype
+-rwxr-xr-x 1 0   0  2334864 May  2  2016 dwp
+lrwxrwxrwx 1 0   0       53 Feb 20  2014 e2pall -> ../share/texlive/texmf-dist/scripts/texlive/e2pall.pl
+lrwxrwxrwx 1 0   0        8 Jan 22  2014 ebb -> dvipdfmx
+lrwxrwxrwx 1 0   0       50 Feb 17  2014 ebong -> ../share/texlive/texmf-dist/scripts/ebong/ebong.py
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 ebrowse -> /etc/alternatives/ebrowse
+-rwxr-xr-x 1 0   0    43832 Mar  7  2014 ebrowse.emacs24
+lrwxrwxrwx 1 0   0       11 Jan  6  2015 edit -> run-mailcap
+lrwxrwxrwx 1 0   0       24 Jun 24  2016 editor -> /etc/alternatives/editor
+-rwxr-xr-x 1 0   0    31408 Feb 25  2014 eject
+-rwxr-xr-x 1 0   0    31488 May  2  2016 elfedit
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 emacs -> /etc/alternatives/emacs
+lrwxrwxrwx 1 0   0       11 Mar  7  2014 emacs24 -> emacs24-nox
+-rwxr-xr-x 1 0   0 13256664 Mar  7  2014 emacs24-nox
+lrwxrwxrwx 1 0   0       29 Mar  3  2017 emacsclient -> /etc/alternatives/emacsclient
+-rwxr-xr-x 1 0   0    23544 Mar  7  2014 emacsclient.emacs24
+-rwxr-xr-x 1 0   0    39221 Mar  1  2016 enc2xs
+-rwxr-xr-x 1 0   0    27232 Mar 10  2016 env
+-rwxr-xr-x 1 0   0    18640 Jul 28  2011 envdir
+-rwxr-xr-x 1 0   0    35288 Apr 28  2014 envsubst
+-rwxr-xr-x 1 0   0    14480 Jul 28  2011 envuidgid
+lrwxrwxrwx 1 0   0        6 Feb 20  2014 eplain -> pdftex
+-rwxr-xr-x 1 0   0      638 Dec  7  2016 eps2eps
+-rwxr-xr-x 1 0   0    14336 Oct 29  2012 epsffit
+lrwxrwxrwx 1 0   0       53 Feb 17  2014 epspdf -> ../share/texlive/texmf-dist/scripts/epspdf/epspdf.tlu
+lrwxrwxrwx 1 0   0       55 Feb 17  2014 epspdftk -> ../share/texlive/texmf-dist/scripts/epspdf/epspdftk.tcl
+lrwxrwxrwx 1 0   0       56 Feb 20  2014 epstopdf -> ../share/texlive/texmf-dist/scripts/epstopdf/epstopdf.pl
+-rwxr-xr-x 1 0   0   418360 Jan 22  2014 eptex
+-rwxr-xr-x 1 0   0   140816 Jan 22  2014 eqn
+-rwxr-xr-x 1 0   0     2678 Jan 22  2014 eqn2graph
+lrwxrwxrwx 1 0   0        8 Feb 15  2014 erb -> erb1.9.1
+-rwxr-xr-x 1 0   0     4398 Nov 19  2014 erb1.9.1
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 etags -> /etc/alternatives/etags
+-rwxr-xr-x 1 0   0   101216 Mar  7  2014 etags.emacs24
+lrwxrwxrwx 1 0   0        6 Jan 22  2014 etex -> pdftex
+-rwxr-xr-x 1 0   0   424488 Jan 22  2014 euptex
+lrwxrwxrwx 1 0   0       20 Jun 24  2016 ex -> /etc/alternatives/ex
+lrwxrwxrwx 1 0   0       53 Feb 20  2014 exceltex -> ../share/texlive/texmf-dist/scripts/exceltex/exceltex
+-rwxr-xr-x 1 0   0    31360 Mar 10  2016 expand
+-rwxr-xr-x 1 0   0    10424 Jan  2  2014 expect
+-rwxr-sr-x 1 0  42    23360 Jan 27  2016 expiry
+-rwxr-xr-x 1 0   0    39552 Mar 10  2016 expr
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 extcheck -> /etc/alternatives/extcheck
+-rwxr-xr-x 1 0   0     6256 Dec 28  2013 extconv
+lrwxrwxrwx 1 0   0        8 Jan 22  2014 extractbb -> dvipdfmx
+-rwxr-xr-x 1 0   0     2748 Oct 29  2012 extractres
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 f95 -> /etc/alternatives/f95
+-rwxr-xr-x 1 0   0    88800 Mar 10  2016 factor
+-rwxr-xr-x 1 0   0    19184 Jan 27  2016 faillog
+-rwxr-xr-x 1 0   0    14600 Nov 23  2016 fallocate
+-rwxr-xr-x 1 0   0    14784 Aug 16  2016 fc-cache
+-rwxr-xr-x 1 0   0    14720 Aug 16  2016 fc-cat
+-rwxr-xr-x 1 0   0    10512 Aug 16  2016 fc-list
+-rwxr-xr-x 1 0   0    10568 Aug 16  2016 fc-match
+-rwxr-xr-x 1 0   0    10512 Aug 16  2016 fc-pattern
+-rwxr-xr-x 1 0   0    10464 Aug 16  2016 fc-query
+-rwxr-xr-x 1 0   0    10520 Aug 16  2016 fc-scan
+-rwxr-xr-x 1 0   0    10528 Aug 16  2016 fc-validate
+lrwxrwxrwx 1 0   0        3 Dec  5  2014 fdp -> dot
+-rwxr-xr-x 1 0   0    12649 Feb  8  2014 feynmf
+-rwxr-xr-x 1 0   0    14544 Jul 28  2011 fghack
+lrwxrwxrwx 1 0   0       55 Feb 17  2014 fig4latex -> ../share/texlive/texmf-dist/scripts/fig4latex/fig4latex
+-rwxr-xr-x 1 0   0    18848 Jan 27  2015 file
+-rwxr-xr-x 1 0   0   229992 Jan  6  2014 find
+-rwxr-xr-x 1 0   0    23599 Mar  1  2016 find2perl
+lrwxrwxrwx 1 0   0       53 Feb 20  2014 findhyph -> ../share/texlive/texmf-dist/scripts/findhyph/findhyph
+-rwxr-xr-x 1 0   0  1348512 Feb  3  2017 fish
+-rwxr-xr-x 1 0   0  1213312 Feb  3  2017 fish_indent
+-rwxr-xr-x 1 0   0  1348512 Feb  3  2017 fish_key_reader
+-rwxr-xr-x 1 0   0    27592 Sep 11  2013 fisql
+-rwxr-xr-x 1 0   0     1564 Oct 29  2012 fixdlsrps
+-rwxr-xr-x 1 0   0      599 Oct 29  2012 fixfmps
+-rwxr-xr-x 1 0   0      694 Oct 29  2012 fixpsditps
+-rwxr-xr-x 1 0   0     1304 Oct 29  2012 fixpspps
+-rwxr-xr-x 1 0   0      479 Oct 29  2012 fixscribeps
+-rwxr-xr-x 1 0   0      699 Oct 29  2012 fixtpps
+-rwxr-xr-x 1 0   0      857 Oct 29  2012 fixwfwps
+-rwxr-xr-x 1 0   0      732 Oct 29  2012 fixwpps
+-rwxr-xr-x 1 0   0      427 Oct 29  2012 fixwwps
+-rwxr-xr-x 1 0   0   317880 Dec  4  2013 flex
+lrwxrwxrwx 1 0   0        4 Dec  4  2013 flex++ -> flex
+-rwxr-xr-x 1 0   0    14616 Nov 23  2016 flock
+-rwxr-xr-x 1 0   0    35456 Mar 10  2016 fmt
+lrwxrwxrwx 1 0   0       54 Feb 17  2014 fmtutil -> ../share/texlive/texmf-dist/scripts/texlive/fmtutil.sh
+lrwxrwxrwx 1 0   0       58 Feb 17  2014 fmtutil-sys -> ../share/texlive/texmf-dist/scripts/texlive/fmtutil-sys.sh
+-rwxr-xr-x 1 0   0    31360 Mar 10  2016 fold
+-rwxr-xr-x 1 0   0      311 Dec  7  2016 font2c
+lrwxrwxrwx 1 0   0       55 Feb 20  2014 fontinst -> ../share/texlive/texmf-dist/scripts/texlive/fontinst.sh
+-rwxr-xr-x 1 0   0    20587 Jan 21  2014 fragmaster
+-rwxr-xr-x 1 0   0    14648 Feb 10  2015 free
+-rwxr-xr-x 1 0   0    19056 Sep 11  2013 freebcp
+lrwxrwxrwx 1 0   0       26 Nov 29  2016 freecad -> ../lib/freecad/bin/FreeCAD
+-rwxr-xr-x 1 0   0      699 Nov 29  2016 freecad-thumbnailer
+lrwxrwxrwx 1 0   0       29 Nov 29  2016 freecadcmd -> ../lib/freecad/bin/FreeCADCmd
+-rwxr-xr-x 1 0   0     3549 Sep 10  2015 freetype-config
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 from -> /etc/alternatives/from
+-rwxr-xr-x 1 0   0    22672 Nov  9  2015 funzip
+lrwxrwxrwx 1 0   0        7 Apr  7  2014 g++ -> g++-4.8
+-rwxr-xr-x 1 0   0   775888 May  7  2016 g++-4.8
+-rwxr-xr-x 1 0   0     1216 Dec 28  2013 gbklatex
+-rwxr-xr-x 1 0   0     1222 Dec 28  2013 gbkpdflatex
+-rwxr-xr-x 1 0   0    14664 Dec  5  2014 gc
+lrwxrwxrwx 1 0   0        7 Apr  7  2014 gcc -> gcc-4.8
+-rwxr-xr-x 1 0   0   775888 May  7  2016 gcc-4.8
+lrwxrwxrwx 1 0   0       10 Apr  7  2014 gcc-ar -> gcc-ar-4.8
+-rwxr-xr-x 1 0   0    26968 May  7  2016 gcc-ar-4.8
+lrwxrwxrwx 1 0   0       10 Apr  7  2014 gcc-nm -> gcc-nm-4.8
+-rwxr-xr-x 1 0   0    26968 May  7  2016 gcc-nm-4.8
+lrwxrwxrwx 1 0   0       14 Apr  7  2014 gcc-ranlib -> gcc-ranlib-4.8
+-rwxr-xr-x 1 0   0    26968 May  7  2016 gcc-ranlib-4.8
+-rwxr-xr-x 1 0   0    52480 Mar 27  2014 gconf-merge-tree
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 gconftool -> /etc/alternatives/gconftool
+-rwxr-xr-x 1 0   0    60608 Mar 27  2014 gconftool-2
+lrwxrwxrwx 1 0   0        8 Apr  7  2014 gcov -> gcov-4.8
+-rwxr-xr-x 1 0   0   318360 May  7  2016 gcov-4.8
+-rwxr-xr-x 1 0   0    35688 Sep 25  2014 gdbus
+-rwxr-xr-x 1 0   0     1278 Sep 25  2014 gdbus-codegen
+-rwxr-xr-x 1 0   0     7048 Jan 22  2014 gdiffmk
+-rwxr-xr-x 1 0   0    10464 Sep 21  2016 gdk-pixbuf-csource
+-rwxr-xr-x 1 0   0    10448 Sep 21  2016 gdk-pixbuf-pixdata
+lrwxrwxrwx 1 0   0       63 Sep 21  2016 gdk-pixbuf-query-loaders -> ../lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders
+lrwxrwxrwx 1 0   0        8 Feb 15  2014 gem -> gem1.9.1
+-rwxr-xr-x 1 0   0      547 Nov 19  2014 gem1.9.1
+-rwxr-xr-x 1 0   0    14656 Sep 11  2015 genbrk
+-rwxr-xr-x 1 0   0    23056 May 26  2016 gencat
+-rwxr-xr-x 1 0   0    10512 Sep 11  2015 gencfu
+-rwxr-xr-x 1 0   0    22680 Sep 11  2015 gencnval
+-rwxr-xr-x 1 0   0    22864 Sep 11  2015 gendict
+-rwxr-xr-x 1 0   0    97688 Sep 11  2015 genrb
+-rwxr-xr-x 1 0   0    14664 Jan 11  2016 geoiplookup
+-rwxr-xr-x 1 0   0    10496 Jan 11  2016 geoiplookup6
+lrwxrwxrwx 1 0   0        3 Jan 22  2014 geqn -> eqn
+-rwxr-xr-x 1 0   0     6333 Oct 29  2012 getafm
+-rwxr-xr-x 1 0   0    22856 May 26  2016 getconf
+-rwxr-xr-x 1 0   0    27856 May 26  2016 getent
+-rwxr-xr-x 1 0   0    10488 Feb 18  2013 getkeycodes
+-rwxr-xr-x 1 0   0    14616 Nov 23  2016 getopt
+-rwxr-xr-x 1 0   0    35264 Apr 28  2014 gettext
+-rwxr-xr-x 1 0   0     4616 Apr 28  2014 gettext.sh
+-rwxr-xr-x 1 0   0    42499 Apr 28  2014 gettextize
+lrwxrwxrwx 1 0   0       12 Apr  7  2014 gfortran -> gfortran-4.8
+-rwxr-xr-x 1 0   0   779984 May  7  2016 gfortran-4.8
+-rwxr-xr-x 1 0   0    43392 Jan 22  2014 gftodvi
+-rwxr-xr-x 1 0   0    27000 Jan 22  2014 gftopk
+-rwxr-xr-x 1 0   0    26976 Jan 22  2014 gftype
+lrwxrwxrwx 1 0   0       18 Apr 12  2014 ghc -> ../lib/ghc/bin/ghc
+lrwxrwxrwx 1 0   0       24 Apr 12  2014 ghc-7.6.3 -> ../lib/ghc/bin/ghc-7.6.3
+lrwxrwxrwx 1 0   0       22 Apr 12  2014 ghc-pkg -> ../lib/ghc/bin/ghc-pkg
+lrwxrwxrwx 1 0   0       28 Apr 12  2014 ghc-pkg-7.6.3 -> ../lib/ghc/bin/ghc-pkg-7.6.3
+lrwxrwxrwx 1 0   0       19 Apr 12  2014 ghci -> ../lib/ghc/bin/ghci
+lrwxrwxrwx 1 0   0       25 Apr 12  2014 ghci-7.6.3 -> ../lib/ghc/bin/ghci-7.6.3
+lrwxrwxrwx 1 0   0        2 Dec  7  2016 ghostscript -> gs
+-rwxr-xr-x 1 0   0    44600 Dec 11  2013 ginstall-info
+lrwxrwxrwx 1 0   0       49 Sep 25  2014 gio-querymodules -> ../lib/x86_64-linux-gnu/glib-2.0/gio-querymodules
+-rwxr-xr-x 1 0   0  1577288 Mar 21  2016 git
+lrwxrwxrwx 1 0   0        3 Mar 21  2016 git-receive-pack -> git
+-rwxr-xr-x 1 0   0   761224 Mar 21  2016 git-shell
+lrwxrwxrwx 1 0   0        3 Mar 21  2016 git-upload-archive -> git
+-rwxr-xr-x 1 0   0   835144 Mar 21  2016 git-upload-pack
+lrwxrwxrwx 1 0   0       55 Sep 25  2014 glib-compile-resources -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-resources
+lrwxrwxrwx 1 0   0       53 Sep 25  2014 glib-compile-schemas -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-schemas
+-rwxr-xr-x 1 0   0    31168 Sep 25  2014 glib-genmarshal
+-rwxr-xr-x 1 0   0     5380 Sep 25  2014 glib-gettextize
+-rwxr-xr-x 1 0   0    17968 Sep 25  2014 glib-mkenums
+-rwxr-xr-x 1 0   0   141968 Oct 18  2010 global
+-rwxr-xr-x 1 0   0       47 Oct 18  2010 globash
+-rwxr-xr-x 1 0   0    39608 Dec  5  2014 gml2gv
+lrwxrwxrwx 1 0   0       35 Mar  3  2017 gnome-www-browser -> /etc/alternatives/gnome-www-browser
+-rwxr-xr-x 1 0   0    10456 Sep 25  2014 gobject-query
+lrwxrwxrwx 1 0   0        7 May  2  2016 gold -> ld.gold
+-rwxr-xr-x 1 0   0   109104 Oct 18  2010 gozilla
+-rwsr-xr-x 1 0   0    72280 Jan 27  2016 gpasswd
+-rwxr-xr-x 1 0   0  1000296 Aug 18  2016 gpg
+-rwxr-xr-x 1 0   0   299272 Mar 27  2015 gpg-agent
+-rwxr-xr-x 1 0   0   150056 Mar 27  2015 gpg-connect-agent
+-rwxr-xr-x 1 0   0     3303 Aug 18  2016 gpg-zip
+-rwxr-xr-x 1 0   0    38912 Mar 27  2015 gpgkey2ssh
+-rwxr-xr-x 1 0   0    56096 Aug 18  2016 gpgsplit
+-rwxr-xr-x 1 0   0   364144 Aug 18  2016 gpgv
+lrwxrwxrwx 1 0   0        3 Jan 22  2014 gpic -> pic
+-rwxr-xr-x 1 0   0    98520 May  2  2016 gprof
+-rwxr-xr-x 1 0   0     2439 Jan 22  2014 grap2graph
+-rwxr-xr-x 1 0   0    19032 Dec  5  2014 graphml2gv
+lrwxrwxrwx 1 0   0       32 Mar  3  2017 grep-changelog -> /etc/alternatives/grep-changelog
+-rwxr-xr-x 1 0   0     7168 Mar  7  2014 grep-changelog.emacs24
+-rwxr-xr-x 1 0   0    14816 Sep 25  2014 gresource
+-rwxr-xr-x 1 0   0    75856 Jan 22  2014 grn
+-rwxr-xr-x 1 0   0    95960 Jan 22  2014 grodvi
+-rwxr-xr-x 1 0   0    79608 Jan 22  2014 groff
+-rwxr-xr-x 1 0   0    61471 Jan 22  2014 groffer
+-rwxr-xr-x 1 0   0     9851 Jan 22  2014 grog
+-rwxr-xr-x 1 0   0   105240 Jan 22  2014 grolbp
+-rwxr-xr-x 1 0   0    95960 Jan 22  2014 grolj4
+-rwxr-xr-x 1 0   0    64109 Jan 22  2014 gropdf
+-rwxr-xr-x 1 0   0   137432 Jan 22  2014 grops
+-rwxr-xr-x 1 0   0    95992 Jan 22  2014 grotty
+-rwxr-xr-x 1 0   0    31360 Mar 10  2016 groups
+-rwxr-xr-x 1 0   0    10384 Dec  7  2016 gs
+-rwxr-xr-x 1 0   0      350 Dec  7  2016 gsbj
+-rwxr-xr-x 1 0   0      352 Dec  7  2016 gsdj
+-rwxr-xr-x 1 0   0      352 Dec  7  2016 gsdj500
+-rwxr-xr-x 1 0   0    23152 Sep 25  2014 gsettings
+-rwxr-xr-x 1 0   0    23400 Mar 27  2014 gsettings-data-convert
+-rwxr-xr-x 1 0   0    41799 Mar 27  2014 gsettings-schema-convert
+-rwxr-xr-x 1 0   0    27240 Jan 22  2014 gsftopk
+-rwxr-xr-x 1 0   0     1225 Dec 12  2013 gsl-config
+-rwxr-xr-x 1 0   0      353 Dec  7  2016 gslj
+-rwxr-xr-x 1 0   0      350 Dec  7  2016 gslp
+-rwxr-xr-x 1 0   0      277 Dec  7  2016 gsnd
+-rwxr-xr-x 1 0   0    14920 Dec 17  2013 gst-codec-info-0.10
+-rwxr-xr-x 1 0   0   133816 Oct 18  2010 gtags
+-rwxr-xr-x 1 0   0   105016 Oct 18  2010 gtags-cscope
+-rwxr-xr-x 1 0   0   167248 Oct 18  2010 gtags-parser
+lrwxrwxrwx 1 0   0        3 Jan 22  2014 gtbl -> tbl
+-rwxr-xr-x 1 0   0    23152 Sep 25  2014 gtester
+-rwxr-xr-x 1 0   0    18665 Sep 25  2014 gtester-report
+-rwxr-xr-x 1 0   0    29059 Feb 12  2016 gtk-builder-convert
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 guile -> /etc/alternatives/guile
+-rwxr-xr-x 1 0   0     6232 Feb  4  2014 guile-1.8
+-rwxr-xr-x 1 0   0    18800 Dec  5  2014 gv2gml
+lrwxrwxrwx 1 0   0        6 Dec  5  2014 gv2gxl -> gxl2gv
+-rwxr-xr-x 1 0   0    29264 Dec  5  2014 gvcolor
+-rwxr-xr-x 1 0   0    18600 Dec  5  2014 gvgen
+-rwxr-xr-x 1 0   0   405192 Dec  5  2014 gvmap
+-rwxr-xr-x 1 0   0     2190 Dec  5  2014 gvmap.sh
+-rwxr-xr-x 1 0   0    23344 Dec  5  2014 gvpack
+-rwxr-xr-x 1 0   0     6224 Dec  5  2014 gvpr
+-rwxr-xr-x 1 0   0   104544 Jan 22  2014 gxditview
+lrwxrwxrwx 1 0   0        6 Dec  5  2014 gxl2dot -> gxl2gv
+-rwxr-xr-x 1 0   0    35728 Dec  5  2014 gxl2gv
+-rwxr-xr-x 1 0   0    28132 Mar  1  2016 h2ph
+-rwxr-xr-x 1 0   0    60690 Mar  1  2016 h2xs
+-rwxr-xr-x 1 0   0    12387 Dec 23  2013 h5c++
+-rwxr-xr-x 1 0   0    12729 Dec 23  2013 h5cc
+-rwxr-xr-x 1 0   0    12139 Dec 23  2013 h5fc
+-rwxr-xr-x 1 0   0 33631992 Apr 12  2014 haddock
+lrwxrwxrwx 1 0   0       32 Apr 12  2014 haddock-ghc-7.6.3 -> ../lib/ghc/bin/haddock-ghc-7.6.3
+-rwxr-xr-x 1 0   0  1855608 Oct 21  2013 happy
+lrwxrwxrwx 1 0   0       34 Mar  3  2017 haskell-compiler -> /etc/alternatives/haskell-compiler
+-rwxr-xr-x 1 0   0    39416 Dec 28  2013 hbf2gf
+lrwxrwxrwx 1 0   0        7 Jun  4  2013 hd -> hexdump
+-rwxr-xr-x 1 0   0    39584 Mar 10  2016 head
+-rwxr-xr-x 1 0   0       67 Feb 25  2014 helpviewer
+-rwxr-xr-x 1 0   0     2480 Feb 22  2013 helpztags
+-rwxr-xr-x 1 0   0    27080 Jun  4  2013 hexdump
+-rwxr-xr-x 1 0   0   622448 Dec  8  2013 hmmalign
+-rwxr-xr-x 1 0   0   708936 Dec  8  2013 hmmbuild
+-rwxr-xr-x 1 0   0   607248 Dec  8  2013 hmmc2
+-rwxr-xr-x 1 0   0   384400 Dec  8  2013 hmmconvert
+-rwxr-xr-x 1 0   0   622928 Dec  8  2013 hmmemit
+-rwxr-xr-x 1 0   0   392784 Dec  8  2013 hmmfetch
+-rwxr-xr-x 1 0   0   384400 Dec  8  2013 hmmlogo
+-rwxr-xr-x 1 0   0   889736 Dec  8  2013 hmmpgmd
+-rwxr-xr-x 1 0   0   400552 Dec  8  2013 hmmpress
+-rwxr-xr-x 1 0   0   726760 Dec  8  2013 hmmscan
+-rwxr-xr-x 1 0   0   731096 Dec  8  2013 hmmsearch
+-rwxr-xr-x 1 0   0   415712 Dec  8  2013 hmmsim
+-rwxr-xr-x 1 0   0   388736 Dec  8  2013 hmmstat
+-rwxr-xr-x 1 0   0   112968 Feb 15  2017 host
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 hostid
+lrwxrwxrwx 1 0   0       20 Apr 12  2014 hp2ps -> ../lib/ghc/bin/hp2ps
+lrwxrwxrwx 1 0   0       18 Apr 12  2014 hpc -> ../lib/ghc/bin/hpc
+-rwxr-xr-x 1 0   0   114872 Jan 22  2014 hpftodit
+lrwxrwxrwx 1 0   0       21 Apr 12  2014 hsc2hs -> ../lib/ghc/bin/hsc2hs
+lrwxrwxrwx 1 0   0        6 Feb  6  2014 hsmarkdown -> pandoc
+-rwxr-xr-x 1 0   0      189 Jun  6  2012 ht
+-rwxr-xr-x 1 0   0   279376 Oct 18  2010 htags
+-rwxr-xr-x 1 0   0    12111 Oct 18  2010 htconfig
+-rwxr-xr-x 1 0   0     1675 Jun  6  2012 htlatex
+-rwxr-xr-x 1 0   0     3976 Oct 18  2010 htmake
+-rwxr-xr-x 1 0   0     1119 Jun  6  2012 httex
+-rwxr-xr-x 1 0   0     1622 Jun  6  2012 httexi
+lrwxrwxrwx 1 0   0        7 Nov 23  2016 i386 -> setarch
+-rwxr-xr-x 1 0   0    60304 May 26  2016 iconv
+-rwxr-xr-x 1 0   0    22316 Sep 11  2015 icu-config
+-rwxr-xr-x 1 0   0    14536 Sep 11  2015 icuinfo
+-rwxr-xr-x 1 0   0    35520 Mar 10  2016 id
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 identify -> /etc/alternatives/identify
+-rwxr-xr-x 1 0   0     6328 Feb 22  2017 identify.im6
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 idlj -> /etc/alternatives/idlj
+-rwxr-xr-x 1 0   0     4130 Apr 10  2014 ifnames
+-rwxr-xr-x 1 0   0       65 Feb 25  2014 img2png
+-rwxr-xr-x 1 0   0       64 Feb 25  2014 img2py
+-rwxr-xr-x 1 0   0       65 Feb 25  2014 img2xpm
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 import -> /etc/alternatives/import
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 import.im6
+-rwxr-xr-x 1 0   0     1460 Oct 29  2012 includeres
+-rwxr-xr-x 1 0   0    35464 Jan 22  2014 indxbib
+-rwxr-xr-x 1 0   0   207280 Dec 11  2013 info
+lrwxrwxrwx 1 0   0       29 Mar  3  2017 infobrowser -> /etc/alternatives/infobrowser
+-rwxr-xr-x 1 0   0    55968 Mar 22  2014 infocmp
+-rwxr-xr-x 1 0   0    20816 Dec 11  2013 infokey
+lrwxrwxrwx 1 0   0        3 Mar 22  2014 infotocap -> tic
+lrwxrwxrwx 1 0   0        2 Jan 22  2014 inimf -> mf
+-rwxr-xr-x 1 0   0     6919 Jul 18  2014 init-checkconf
+-rwxr-xr-x 1 0   0    18725 Jul 18  2014 initctl2dot
+lrwxrwxrwx 1 0   0        3 Jan 22  2014 initex -> tex
+-rwxr-xr-x 1 0   0 12406776 Jan 22  2014 inkscape
+-rwxr-xr-x 1 0   0 10549240 Jan 22  2014 inkview
+-rwxr-xr-x 1 0   0    14336 Jan 18  2017 innochecksum
+-rwxr-xr-x 1 0   0   400192 Jan 18  2017 innotop
+-rwxr-xr-x 1 0   0   118128 Mar 10  2016 install
+-rwxr-xr-x 1 0   0     1216 Dec 11  2013 install-info
+lrwxrwxrwx 1 0   0       62 Feb 20  2014 installfont-tl -> ../share/texlive/texmf-dist/scripts/installfont/installfont-tl
+-rwxr-xr-x 1 0   0     7338 Mar 12  2013 installwatch
+-rwxr-xr-x 1 0   0     4336 Mar  1  2016 instmodsh
+-rwxr-xr-x 1 0   0    15336 May 25  2013 interpformat
+-rwxr-xr-x 1 0   0    18800 Nov 23  2016 ionice
+-rwxr-xr-x 1 0   0    10456 Nov 23  2016 ipcmk
+-rwxr-xr-x 1 0   0    10464 Nov 23  2016 ipcrm
+-rwxr-xr-x 1 0   0    22744 Nov 23  2016 ipcs
+lrwxrwxrwx 1 0   0        8 Feb 15  2014 irb -> irb1.9.1
+-rwxr-xr-x 1 0   0      319 Nov 19  2014 irb1.9.1
+-rwxr-xr-x 1 0   0   905304 Jan 25  2017 irssi
+-rwxr-xr-x 1 0   0    10480 Aug 28  2013 ischroot
+-rwxr-xr-x 1 0   0    10896 May 25  2013 isofilter
+-rwxr-xr-x 1 0   0    10856 May 25  2013 isofilter0
+-rwxr-xr-x 1 0   0    10896 May 25  2013 isofilter2
+-rwxr-xr-x 1 0   0     7148 Jan 14  2014 ispell-wrapper
+-rwxr-xr-x 1 0   0    27208 Dec 11  2013 isql
+-rwxr-xr-x 1 0   0    23024 Dec 11  2013 iusql
+-rwxr-xr-x 1 0   0    19152 Jan 14  2014 ivtv-ctl
+-rwxr-xr-x 1 0   0   858056 Dec  8  2013 jackhmmer
+lrwxrwxrwx 1 0   0        6 May  1  2012 jadetex -> pdftex
+lrwxrwxrwx 1 0   0       65 Feb 17  2014 jamo-normalize -> ../share/texlive/texmf-dist/scripts/kotex-utils/jamo-normalize.pl
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 jar -> /etc/alternatives/jar
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 jarsigner -> /etc/alternatives/jarsigner
+lrwxrwxrwx 1 0   0       42 Mar  3  2017 jasmine -> ../lib/node_modules/jasmine/bin/jasmine.js
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 java -> /etc/alternatives/java
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 javac -> /etc/alternatives/javac
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 javadoc -> /etc/alternatives/javadoc
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 javah -> /etc/alternatives/javah
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 javap -> /etc/alternatives/javap
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 jcmd -> /etc/alternatives/jcmd
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 jconsole -> /etc/alternatives/jconsole
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 jdb -> /etc/alternatives/jdb
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 jexec -> /etc/alternatives/jexec
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 jhat -> /etc/alternatives/jhat
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 jinfo -> /etc/alternatives/jinfo
+lrwxrwxrwx 1 0   0        3 Feb 17  2014 jmacs -> joe
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 jmap -> /etc/alternatives/jmap
+-rwxr-xr-x 1 0   0   469240 Feb 17  2014 joe
+-rwxr-xr-x 1 0   0    43680 Mar 10  2016 join
+lrwxrwxrwx 1 0   0        3 Feb 17  2014 jpico -> joe
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 jps -> /etc/alternatives/jps
+lrwxrwxrwx 1 0   0       28 Mar  3  2017 jrunscript -> /etc/alternatives/jrunscript
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 jsadebugd -> /etc/alternatives/jsadebugd
+lrwxrwxrwx 1 0   0       37 Mar  3  2017 jshint -> ../lib/node_modules/jshint/bin/jshint
+lrwxrwxrwx 1 0   0       40 Mar  3  2017 jslint -> ../lib/node_modules/jslint/bin/jslint.js
+-rwxr-xr-x 1 0   0     3918 Mar  1  2016 json_pp
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 jstack -> /etc/alternatives/jstack
+lrwxrwxrwx 1 0   0        3 Feb 17  2014 jstar -> joe
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 jstat -> /etc/alternatives/jstat
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 jstatd -> /etc/alternatives/jstatd
+-rwxr-xr-x 1 0   0    45484 Nov 19  2016 julia
+-rwxr-xr-x 1 0   0    12561 Oct 29  2012 jw
+lrwxrwxrwx 1 0   0       68 Feb 17  2014 kanji-config-updmap -> ../share/texlive/texmf-dist/scripts/jfontmaps/kanji-config-updmap.pl
+lrwxrwxrwx 1 0   0       72 Feb 17  2014 kanji-config-updmap-sys -> ../share/texlive/texmf-dist/scripts/jfontmaps/kanji-config-updmap-sys.sh
+lrwxrwxrwx 1 0   0       70 Feb 17  2014 kanji-fontmap-creator -> ../share/texlive/texmf-dist/scripts/jfontmaps/kanji-fontmap-creator.pl
+lrwxrwxrwx 1 0   0       35 Mar  3  2017 karma -> ../lib/node_modules/karma/bin/karma
+-rwxr-xr-x 1 0   0    10504 Feb 18  2013 kbdinfo
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 keytool -> /etc/alternatives/keytool
+-rwxr-xr-x 1 0   0    23672 Nov 29  2012 killall
+lrwxrwxrwx 1 0   0       60 Feb 17  2014 komkindex -> ../share/texlive/texmf-dist/scripts/kotex-utils/komkindex.pl
+-rwxr-xr-x 1 0   0     6256 Jan 22  2014 kpseaccess
+lrwxrwxrwx 1 0   0        8 Feb 17  2014 kpsepath -> kpsetool
+-rwxr-xr-x 1 0   0     6272 Jan 22  2014 kpsereadlink
+-rwxr-xr-x 1 0   0    10360 Jan 22  2014 kpsestat
+lrwxrwxrwx 1 0   0       55 Feb 17  2014 kpsetool -> ../share/texlive/texmf-dist/scripts/texlive/kpsetool.sh
+lrwxrwxrwx 1 0   0       56 Feb 17  2014 kpsewhere -> ../share/texlive/texmf-dist/scripts/texlive/kpsewhere.sh
+-rwxr-xr-x 1 0   0    19640 Jan 22  2014 kpsewhich
+lrwxrwxrwx 1 0   0        8 Feb 17  2014 kpsexpand -> kpsetool
+lrwxrwxrwx 1 0   0       29 Mar  3  2017 ksh -> /etc/alternatives/usr.bin.ksh
+-rwxr-xr-x 1 0   0    51320 Jan  4  2012 lacheck
+lrwxrwxrwx 1 0   0        5 Feb 17  2014 lamed -> aleph
+-rwxr-xr-x 1 0   0    18904 Feb 17  2016 last
+lrwxrwxrwx 1 0   0        4 Feb 17  2016 lastb -> last
+-rwxr-xr-x 1 0   0    14736 Jan 27  2016 lastlog
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 latex -> pdftex
+lrwxrwxrwx 1 0   0       63 Feb 20  2014 latex-git-log -> ../share/texlive/texmf-dist/scripts/latex-git-log/latex-git-log
+lrwxrwxrwx 1 0   0       55 Feb 20  2014 latex2man -> ../share/texlive/texmf-dist/scripts/latex2man/latex2man
+lrwxrwxrwx 1 0   0        6 Feb 20  2014 latexdef -> texdef
+lrwxrwxrwx 1 0   0       14 May  7  2013 latexdiff -> latexdiff-fast
+lrwxrwxrwx 1 0   0       12 May  7  2013 latexdiff-cvs -> latexdiff-vc
+-rwxr-xr-x 1 0   0   147249 Dec 16  2012 latexdiff-fast
+lrwxrwxrwx 1 0   0       12 May  7  2013 latexdiff-git -> latexdiff-vc
+lrwxrwxrwx 1 0   0       12 May  7  2013 latexdiff-rcs -> latexdiff-vc
+lrwxrwxrwx 1 0   0       12 May  7  2013 latexdiff-svn -> latexdiff-vc
+-rwxr-xr-x 1 0   0    15195 May  7  2013 latexdiff-vc
+lrwxrwxrwx 1 0   0       69 Feb 20  2014 latexfileversion -> ../share/texlive/texmf-dist/scripts/latexfileversion/latexfileversion
+-rwxr-xr-x 1 0   0   317825 Jan 12  2013 latexmk
+lrwxrwxrwx 1 0   0       55 Feb 20  2014 latexpand -> ../share/texlive/texmf-dist/scripts/latexpand/latexpand
+-rwxr-xr-x 1 0   0    19895 Dec 16  2012 latexrevise
+-rwxr-xr-x 1 0   0     7812 Jul  1  2013 lcf
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 lconvert -> qtchooser
+lrwxrwxrwx 1 0   0        6 May  2  2016 ld -> ld.bfd
+-rwxr-xr-x 1 0   0  1050912 May  2  2016 ld.bfd
+-rwxr-xr-x 1 0   0  2510768 May  2  2016 ld.gold
+-rwxr-xr-x 1 0   0     5424 May 26  2016 ldd
+-rwxr-xr-x 1 0   0   269672 Dec  5  2014 lefty
+lrwxrwxrwx 1 0   0        9 Jun 10  2013 less -> /bin/less
+lrwxrwxrwx 1 0   0       34 Mar  3  2017 lessc -> ../lib/node_modules/less/bin/lessc
+lrwxrwxrwx 1 0   0       13 Jun 10  2013 lessecho -> /bin/lessecho
+lrwxrwxrwx 1 0   0       13 Jun 10  2013 lessfile -> /bin/lesspipe
+lrwxrwxrwx 1 0   0       12 Jun 10  2013 lesskey -> /bin/lesskey
+lrwxrwxrwx 1 0   0       13 Jun 10  2013 lesspipe -> /bin/lesspipe
+lrwxrwxrwx 1 0   0        4 Dec  4  2013 lex -> flex
+-rwxr-xr-x 1 0   0    92744 Sep 23  2014 lexgrog
+-rwxr-xr-x 1 0   0     1455 Dec 20  2013 libmcrypt-config
+-rwxr-xr-x 1 0   0    15719 Mar  1  2016 libnetcfg
+lrwxrwxrwx 1 0   0       15 Dec 18  2015 libpng-config -> libpng12-config
+-rwxr-xr-x 1 0   0     2312 Dec 18  2015 libpng12-config
+-rwxr-xr-x 1 0   0     2391 Jul  7  2015 libwmf-config
+lrwxrwxrwx 1 0   0       69 Feb 20  2014 lily-glyph-commands -> ../share/texlive/texmf-dist/scripts/lilyglyphs/lily-glyph-commands.py
+lrwxrwxrwx 1 0   0       69 Feb 20  2014 lily-image-commands -> ../share/texlive/texmf-dist/scripts/lilyglyphs/lily-image-commands.py
+lrwxrwxrwx 1 0   0       67 Feb 20  2014 lily-rebuild-pdfs -> ../share/texlive/texmf-dist/scripts/lilyglyphs/lily-rebuild-pdfs.py
+-rwxr-xr-x 1 0   0     6232 Nov 23  2016 line
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 linguist -> qtchooser
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 link
+lrwxrwxrwx 1 0   0        7 Nov 23  2016 linux32 -> setarch
+lrwxrwxrwx 1 0   0        7 Nov 23  2016 linux64 -> setarch
+lrwxrwxrwx 1 0   0       51 Feb 20  2014 listbib -> ../share/texlive/texmf-dist/scripts/listbib/listbib
+lrwxrwxrwx 1 0   0       64 Feb 20  2014 listings-ext -> ../share/texlive/texmf-dist/scripts/listings-ext/listings-ext.sh
+-rwxr-xr-x 1 0   0    39528 Jan 22  2014 lkbib
+-rwxr-xr-x 1 0   0     1547 Dec  5  2014 lneato
+-rwxr-xr-x 1 0   0    14928 Jul 23  2015 lnstat
+lrwxrwxrwx 1 0   0       13 Feb 18  2013 loadkeys -> /bin/loadkeys
+-rwxr-xr-x 1 0   0    23144 Feb 18  2013 loadunimap
+-rwxr-xr-x 1 0   0    38704 May 26  2016 locale
+-rwxr-xr-x 1 0   0   319056 May 26  2016 localedef
+-rwxr-xr-x 1 0   0    14592 Dec  3  2012 lockfile-check
+-rwxr-xr-x 1 0   0    14592 Dec  3  2012 lockfile-create
+-rwxr-xr-x 1 0   0    14592 Dec  3  2012 lockfile-remove
+-rwxr-xr-x 1 0   0    14592 Dec  3  2012 lockfile-touch
+-rwxr-xr-x 1 0   0    19488 Nov 23  2016 logger
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 logname
+-rwxr-xr-x 1 0   0    10488 Jun  4  2013 look
+-rwxr-xr-x 1 0   0    39528 Jan 22  2014 lookbib
+-rwxr-xr-x 1 0   0     2763 Jun  4  2013 lorder
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 lrelease -> qtchooser
+lrwxrwxrwx 1 0   0       40 May 27  2015 lrelease-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/lrelease
+-rwxr-xr-x 1 0   0    10512 Sep  9  2015 lsattr
+-rwxr-xr-x 1 0   0     3716 May 18  2016 lsb_release
+-rwxr-xr-x 1 0   0    31320 Nov 23  2016 lscpu
+-rwxr-xr-x 1 0   0      767 Jun  1  2012 lsinitramfs
+-rwxr-xr-x 1 0   0     1081 Mar 15  2013 lspgpot
+lrwxrwxrwx 1 0   0       59 Feb 20  2014 ltxfileinfo -> ../share/texlive/texmf-dist/scripts/ltxfileinfo/ltxfileinfo
+lrwxrwxrwx 1 0   0       33 Mar  3  2017 lua -> /etc/alternatives/lua-interpreter
+lrwxrwxrwx 1 0   0       58 Feb 17  2014 lua2dox_filter -> ../share/texlive/texmf-dist/scripts/lua2dox/lua2dox_filter
+-rwxr-xr-x 1 0   0   174976 Sep  2  2014 lua5.1
+lrwxrwxrwx 1 0   0       30 Mar  3  2017 luac -> /etc/alternatives/lua-compiler
+-rwxr-xr-x 1 0   0   113096 Sep  2  2014 luac5.1
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 lualatex -> luatex
+lrwxrwxrwx 1 0   0       66 Feb 17  2014 luaotfload-tool -> ../share/texlive/texmf-dist/scripts/luaotfload/luaotfload-tool.lua
+-rwxr-xr-x 1 0   0  8771496 Dec 14  2013 luatex
+-rwxr-xr-x 1 0   0       36 Jul 31  2013 luatools
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 lupdate -> qtchooser
+lrwxrwxrwx 1 0   0       39 May 27  2015 lupdate-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/lupdate
+-rwxr-xr-x 1 0   0  1505720 Feb  5  2014 lynx
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 lzcat -> /etc/alternatives/lzcat
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 lzcmp -> /etc/alternatives/lzcmp
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 lzdiff -> /etc/alternatives/lzdiff
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 lzegrep -> /etc/alternatives/lzegrep
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 lzfgrep -> /etc/alternatives/lzfgrep
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 lzgrep -> /etc/alternatives/lzgrep
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 lzless -> /etc/alternatives/lzless
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 lzma -> /etc/alternatives/lzma
+-rwxr-xr-x 1 0   0    10504 Feb 12  2014 lzmainfo
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 lzmore -> /etc/alternatives/lzmore
+lrwxrwxrwx 1 0   0       36 Dec 14  2013 m-tx -> ../share/texmf/scripts/m-tx/m-tx.lua
+-rwxr-xr-x 1 0   0   150624 Dec 18  2013 m4
+-rwxr-xr-x 1 0   0    60432 May 25  2013 mace4
+-rwxr-xr-x 1 0   0    10384 Jan 22  2014 mag
+-rwxr-sr-x 1 0   8    14592 Dec  3  2012 mail-lock
+-rwxr-sr-x 1 0   8    14592 Dec  3  2012 mail-touchlock
+-rwxr-sr-x 1 0   8    14592 Dec  3  2012 mail-unlock
+-rwxr-xr-x 1 0   0   170088 Jun  8  2013 make
+-rwxr-xr-x 1 0   0    43512 Sep 11  2015 makeconv
+lrwxrwxrwx 1 0   0       61 Feb 20  2014 makeglossaries -> ../share/texlive/texmf-dist/scripts/glossaries/makeglossaries
+-rwxr-xr-x 1 0   0    78512 Jan 22  2014 makeindex
+lrwxrwxrwx 1 0   0        8 Dec 11  2013 makeinfo -> texi2any
+-rwxr-xr-x 1 0   0    31040 Jan 22  2014 makejvf
+-rwxr-xr-x 1 0   0   107008 Sep 23  2014 man
+-rwxr-xr-x 1 0   0   129760 Sep 23  2014 mandb
+-rwxr-xr-x 1 0   0    31208 Sep 23  2014 manpath
+-rwxr-xr-x 1 0   0    19080 Feb 18  2013 mapscrn
+lrwxrwxrwx 1 0   0       61 Feb 20  2014 match_parens -> ../share/texlive/texmf-dist/scripts/match_parens/match_parens
+lrwxrwxrwx 1 0   0       56 Feb 17  2014 mathspic -> ../share/texlive/texmf-dist/scripts/mathspic/mathspic.pl
+-rwxr-xr-x 1 0   0   117768 Mar 24  2014 mawk
+-rwxr-xr-x 1 0   0   979736 Dec  5  2013 mc
+lrwxrwxrwx 1 0   0        2 Dec  5  2013 mcdiff -> mc
+lrwxrwxrwx 1 0   0        2 Dec  5  2013 mcedit -> mc
+-rwxr-xr-x 1 0   0    14720 Nov 23  2016 mcookie
+lrwxrwxrwx 1 0   0        2 Dec  5  2013 mcview -> mc
+-rwxr-xr-x 1 0   0    39584 Mar 10  2016 md5sum
+lrwxrwxrwx 1 0   0        6 Mar 10  2016 md5sum.textutils -> md5sum
+-rwxr-xr-x 1 0   0   107728 Jan 22  2014 mendex
+-rwxr-xr-x 1 0   0    10464 Feb 17  2016 mesg
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 mex -> pdftex
+-rwxr-xr-x 1 0   0   282888 Jan 22  2014 mf
+-rwxr-xr-x 1 0   0   278232 Jan 22  2014 mf-nowin
+lrwxrwxrwx 1 0   0       52 Feb 20  2014 mf2pt1 -> ../share/texlive/texmf-dist/scripts/mf2pt1/mf2pt1.pl
+lrwxrwxrwx 1 0   0        5 Jan 22  2014 mfplain -> mpost
+-rwxr-xr-x 1 0   0    51600 Jan 22  2014 mft
+-rwxr-xr-x 1 0   0    17396 Jun  6  2012 mk4ht
+-rwxr-xr-x 1 0   0    16163 Feb 18  2013 mk_modmap
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 mkfifo
+lrwxrwxrwx 1 0   0       57 Feb 17  2014 mkgrkindex -> ../share/texlive/texmf-dist/scripts/mkgrkindex/mkgrkindex
+-rwxr-xr-x 1 0   0      947 Jan 22  2014 mkindex
+lrwxrwxrwx 1 0   0       60 Feb 20  2014 mkjobtexmf -> ../share/texlive/texmf-dist/scripts/mkjobtexmf/mkjobtexmf.pl
+-rwxr-xr-x 1 0   0      171 Jan 22  2014 mkocp
+-rwxr-xr-x 1 0   0       85 Jan 22  2014 mkofm
+lrwxrwxrwx 1 0   0       53 Feb 20  2014 mkt1font -> ../share/texlive/texmf-dist/scripts/accfonts/mkt1font
+lrwxrwxrwx 1 0   0        7 Feb 17  2014 mktexfmt -> fmtutil
+-rwxr-xr-x 1 0   0     7479 Jan 22  2014 mktexlsr
+-rwxr-xr-x 1 0   0     3814 Jan 22  2014 mktexmf
+-rwxr-xr-x 1 0   0     9736 Jan 22  2014 mktexpk
+-rwxr-xr-x 1 0   0     4856 Jan 22  2014 mktextfm
+lrwxrwxrwx 1 0   0        6 Feb 20  2014 mllatex -> pdftex
+lrwxrwxrwx 1 0   0        6 Feb 20  2014 mltex -> pdftex
+-rwxr-xr-x 1 0   0    84616 Dec  5  2014 mm2gv
+-rwxr-xr-x 1 0   0   228008 Feb 12  2013 mmafm
+-rwxr-xr-x 1 0   0   289504 Feb 12  2013 mmpfb
+-rwxr-xr-x 1 0   0     3709 Jan 22  2014 mmroff
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 moc -> qtchooser
+lrwxrwxrwx 1 0   0       35 May 27  2015 moc-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/moc
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 mogrify -> /etc/alternatives/mogrify
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 mogrify.im6
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 montage -> /etc/alternatives/montage
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 montage.im6
+-rwxr-xr-x 1 0   0   684760 Jan 22  2014 mpost
+lrwxrwxrwx 1 0   0       59 Feb 17  2014 mptopdf -> ../share/texlive/texmf-dist/scripts/context/perl/mptopdf.pl
+-rwxr-xr-x 1 0   0    22776 Apr 28  2014 msgattrib
+-rwxr-xr-x 1 0   0    18696 Apr 28  2014 msgcat
+-rwxr-xr-x 1 0   0    22920 Apr 28  2014 msgcmp
+-rwxr-xr-x 1 0   0    18680 Apr 28  2014 msgcomm
+-rwxr-xr-x 1 0   0    18664 Apr 28  2014 msgconv
+-rwxr-xr-x 1 0   0    18664 Apr 28  2014 msgen
+-rwxr-xr-x 1 0   0    14608 Apr 28  2014 msgexec
+-rwxr-xr-x 1 0   0    22864 Apr 28  2014 msgfilter
+-rwxr-xr-x 1 0   0    68640 Apr 28  2014 msgfmt
+-rwxr-xr-x 1 0   0    35448 Apr 28  2014 msggrep
+-rwxr-xr-x 1 0   0    44064 Apr 28  2014 msginit
+-rwxr-xr-x 1 0   0    52448 Apr 28  2014 msgmerge
+-rwxr-xr-x 1 0   0    31200 Apr 28  2014 msgunfmt
+-rwxr-xr-x 1 0   0    18672 Apr 28  2014 msguniq
+-rwxr-xr-x 1 0   0     6475 May 26  2016 mtrace
+-rwxr-xr-x 1 0   0   482377 Jul 31  2013 mtxrun
+lrwxrwxrwx 1 0   0       74 Feb 20  2014 multibibliography -> ../share/texlive/texmf-dist/scripts/multibibliography/multibibliography.pl
+-rwxr-xr-x 1 0   0    27096 Jul 28  2011 multilog
+lrwxrwxrwx 1 0   0       44 Dec 14  2013 musixflx -> ../share/texmf/scripts/musixtex/musixflx.lua
+lrwxrwxrwx 1 0   0       44 Dec 14  2013 musixtex -> ../share/texmf/scripts/musixtex/musixtex.lua
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 mutt -> /etc/alternatives/mutt
+-rwxr-xr-x 1 0   0   906384 Dec  9  2014 mutt-org
+-rwxr-xr-x 1 0   0   915064 Dec  9  2014 mutt-patched
+-rwxr-sr-x 1 0   8    10576 Dec  9  2014 mutt_dotlock
+-rwxr-xr-x 1 0   0  3190416 Jan 18  2017 myisam_ftdump
+-rwxr-xr-x 1 0   0  3474296 Jan 18  2017 mysql
+-rwxr-xr-x 1 0   0  3754328 Jan 18  2017 mysql_client_test
+-rwxr-xr-x 1 0   0     6939 Jan 18  2017 mysql_config
+-rwxr-xr-x 1 0   0     3315 Jan 18  2017 mysql_find_rows
+-rwxr-xr-x 1 0   0     1261 Jan 18  2017 mysql_fix_extensions
+-rwxr-xr-x 1 0   0  2911352 Jan 18  2017 mysql_plugin
+-rwxr-xr-x 1 0   0  2902320 Jan 18  2017 mysql_waitpid
+-rwxr-xr-x 1 0   0   111539 Jan 18  2017 mysqlaccess
+-rwxr-xr-x 1 0   0  3346456 Jan 18  2017 mysqladmin
+lrwxrwxrwx 1 0   0       10 Jan 18  2017 mysqlanalyze -> mysqlcheck
+-rwxr-xr-x 1 0   0    11025 Jan 18  2017 mysqlbug
+-rwxr-xr-x 1 0   0  3343448 Jan 18  2017 mysqlcheck
+-rwxr-xr-x 1 0   0  3413560 Jan 18  2017 mysqldump
+-rwxr-xr-x 1 0   0     7402 Jan 18  2017 mysqldumpslow
+-rwxr-xr-x 1 0   0  3342904 Jan 18  2017 mysqlimport
+lrwxrwxrwx 1 0   0       10 Jan 18  2017 mysqloptimize -> mysqlcheck
+lrwxrwxrwx 1 0   0       10 Jan 18  2017 mysqlrepair -> mysqlcheck
+-rwxr-xr-x 1 0   0    39016 Jan 18  2017 mysqlreport
+-rwxr-xr-x 1 0   0  3341560 Jan 18  2017 mysqlshow
+-rwxr-xr-x 1 0   0  3360536 Jan 18  2017 mysqlslap
+-rwxr-xr-x 1 0   0    18824 Nov 23  2016 namei
+lrwxrwxrwx 1 0   0        9 Oct  1  2012 nano -> /bin/nano
+lrwxrwxrwx 1 0   0       30 Mar  3  2017 native2ascii -> /etc/alternatives/native2ascii
+lrwxrwxrwx 1 0   0       22 Jun 24  2016 nawk -> /etc/alternatives/nawk
+-rwxr-xr-x 1 0   0    25680 Jun  4  2013 ncal
+-rwxr-xr-x 1 0   0     5949 Mar 22  2014 ncurses5-config
+-rwxr-xr-x 1 0   0     5950 Mar 22  2014 ncursesw5-config
+lrwxrwxrwx 1 0   0        3 Dec  5  2014 neato -> dot
+-rwxr-xr-x 1 0   0      271 Jan 22  2014 neqn
+-rwsr-xr-x 1 0   0    36592 Jan 27  2016 newgrp
+-rwxr-xr-x 1 0   0    35280 Apr 28  2014 ngettext
+-rwxr-xr-x 1 0   0   857032 Dec  8  2013 nhmmer
+-rwxr-xr-x 1 0   0   731336 Dec  8  2013 nhmmscan
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 nice
+-rwxr-xr-x 1 0   0    39680 Mar 10  2016 nl
+-rwxr-xr-x 1 0   0    40704 May  2  2016 nm
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 node -> /etc/alternatives/node
+-rwxr-xr-x 1 0   0  8827304 Mar 23  2015 nodejs
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 nohup
+-rwxr-xr-x 1 0   0    10472 Dec  5  2014 nop
+lrwxrwxrwx 1 0   0       38 Mar  3  2017 npm -> ../lib/node_modules/npm/bin/npm-cli.js
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 nproc
+-rwxr-xr-x 1 0   0     3403 Jan 22  2014 nroff
+-rwxr-xr-x 1 0   0    86112 Jan  6  2014 nsgmls
+-rwxr-xr-x 1 0   0   112808 Feb 15  2017 nslookup
+-rwxr-xr-x 1 0   0    18816 Jul 23  2015 nstat
+-rwxr-xr-x 1 0   0    63376 Feb 15  2017 nsupdate
+-rwxr-xr-x 1 0   0    64224 Mar 10  2016 numfmt
+-rwxr-xr-x 1 0   0   220128 May  2  2016 objcopy
+-rwxr-xr-x 1 0   0   343376 May  2  2016 objdump
+-rwxr-xr-x 1 0   0    14824 Apr 12  2014 octave
+-rwxr-xr-x 1 0   0     6320 Apr 12  2014 octave-cli
+-rwxr-xr-x 1 0   0    64224 Mar 10  2016 od
+-rwxr-xr-x 1 0   0    18832 Dec 11  2013 odbcinst
+-rwxr-xr-x 1 0   0    59784 Jan 22  2014 odvicopy
+-rwxr-xr-x 1 0   0    43456 Jan 22  2014 odvitype
+lrwxrwxrwx 1 0   0        7 Jan 22  2014 ofm2opl -> omfonts
+-rwxr-xr-x 1 0   0   229992 Jan  6  2014 oldfind
+-rwxr-xr-x 1 0   0   119648 Jan 22  2014 omfonts
+-rwxr-xr-x 1 0   0  1569632 Nov  2  2016 omshell
+-rwxr-xr-x 1 0   0   179152 Feb 25  2014 opencv_createsamples
+-rwxr-xr-x 1 0   0   179152 Feb 25  2014 opencv_haartraining
+-rwxr-xr-x 1 0   0    14336 Feb 25  2014 opencv_performance
+-rwxr-xr-x 1 0   0   243816 Feb 25  2014 opencv_traincascade
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 openjade -> /etc/alternatives/openjade
+-rwxr-xr-x 1 0   0   616408 Oct 22  2013 openjade-1.4devel
+-rwxr-xr-x 1 0   0  4299392 Jan 29  2014 openscad
+-rwxr-xr-x 1 0   0   513280 Jan 30  2017 openssl
+lrwxrwxrwx 1 0   0        7 Jan 22  2014 opl2ofm -> omfonts
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 orbd -> /etc/alternatives/orbd
+lrwxrwxrwx 1 0   0        3 Dec  5  2014 osage -> dot
+-rwxr-xr-x 1 0   0    22920 Jun  8  2012 osbf-util
+-rwxr-xr-x 1 0   0     9049 Sep 11  2013 osql
+lrwxrwxrwx 1 0   0       51 Feb 20  2014 ot2kpx -> ../share/texlive/texmf-dist/scripts/fontools/ot2kpx
+-rwxr-xr-x 1 0   0    39296 Jan 22  2014 otangle
+-rwxr-xr-x 1 0   0   421080 Feb 12  2013 otfinfo
+-rwxr-xr-x 1 0   0   709432 Feb 12  2013 otftotfm
+-rwxr-xr-x 1 0   0    35056 Jan 22  2014 otp2ocp
+-rwxr-xr-x 1 0   0    10472 Oct 15  2013 ots
+-rwxr-xr-x 1 0   0    10712 Jan 22  2014 outocp
+lrwxrwxrwx 1 0   0        7 Jan 22  2014 ovf2ovp -> omfonts
+lrwxrwxrwx 1 0   0        7 Jan 22  2014 ovp2ovf -> omfonts
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 pack200 -> /etc/alternatives/pack200
+lrwxrwxrwx 1 0   0       23 Jun 24  2016 pager -> /etc/alternatives/pager
+-rwxr-xr-x 1 0   0 36209432 Feb  6  2014 pandoc
+-rwxr-xr-x 1 0   0    14712 Jul 15  2014 pango-querymodules
+-rwxr-xr-x 1 0   0    48904 Jul 15  2014 pango-view
+-rwxr-xr-x 1 0   0    10552 Dec 11  2013 paperconf
+-rwxr-xr-x 1 0   0    44176 Nov 23  2016 partx
+-rwsr-xr-x 1 0   0    47032 Jan 27  2016 passwd
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 paste
+-rwxr-xr-x 1 0   0   142560 Jun 22  2015 patch
+lrwxrwxrwx 1 0   0        3 Dec  5  2014 patchwork -> dot
+-rwxr-xr-x 1 0   0    31056 Jan 22  2014 patgen
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 pathchk
+-rwxr-xr-x 1 0   0   109128 Jan 22  2014 pbibtex
+-rwxr-xr-x 1 0   0     2148 Apr 14  2016 pcre-config
+lrwxrwxrwx 1 0   0        6 Dec 21  2013 pdb -> pdb2.7
+lrwxrwxrwx 1 0   0       23 Oct 22  2014 pdb2.6 -> ../lib/python2.6/pdb.py
+lrwxrwxrwx 1 0   0       23 Oct 26  2016 pdb2.7 -> ../lib/python2.7/pdb.py
+lrwxrwxrwx 1 0   0        6 Mar 23  2014 pdb3 -> pdb3.4
+lrwxrwxrwx 1 0   0       23 Jan 28  2015 pdb3.3 -> ../lib/python3.3/pdb.py
+lrwxrwxrwx 1 0   0       23 Nov 17  2016 pdb3.4 -> ../lib/python3.4/pdb.py
+lrwxrwxrwx 1 0   0       23 Jul 17  2016 pdb3.5 -> ../lib/python3.5/pdb.py
+lrwxrwxrwx 1 0   0       23 Jan 13  2017 pdb3.6 -> ../lib/python3.6/pdb.py
+lrwxrwxrwx 1 0   0       49 Feb 20  2014 pdf180 -> ../share/texlive/texmf-dist/scripts/pdfjam/pdf180
+lrwxrwxrwx 1 0   0       49 Feb 20  2014 pdf270 -> ../share/texlive/texmf-dist/scripts/pdfjam/pdf270
+-rwxr-xr-x 1 0   0      698 Dec  7  2016 pdf2dsc
+-rwxr-xr-x 1 0   0      909 Dec  7  2016 pdf2ps
+lrwxrwxrwx 1 0   0       48 Feb 20  2014 pdf90 -> ../share/texlive/texmf-dist/scripts/pdfjam/pdf90
+lrwxrwxrwx 1 0   0       60 Feb 20  2014 pdfannotextractor -> ../share/texlive/texmf-dist/scripts/pax/pdfannotextractor.pl
+lrwxrwxrwx 1 0   0       55 Feb 17  2014 pdfatfi -> ../share/texlive/texmf-dist/scripts/oberdiek/pdfatfi.pl
+lrwxrwxrwx 1 0   0       50 Feb 20  2014 pdfbook -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfbook
+-rwxr-xr-x 1 0   0    14600 Jan 22  2014 pdfclose
+lrwxrwxrwx 1 0   0       54 Feb 20  2014 pdfcrop -> ../share/texlive/texmf-dist/scripts/pdfcrop/pdfcrop.pl
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 pdfcslatex -> pdftex
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 pdfcsplain -> pdftex
+-rwxr-xr-x 1 0   0    19096 Apr 29  2016 pdfdetach
+lrwxrwxrwx 1 0   0        6 Jan 22  2014 pdfetex -> pdftex
+lrwxrwxrwx 1 0   0       50 Feb 20  2014 pdfflip -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfflip
+-rwxr-xr-x 1 0   0    14528 Apr 29  2016 pdffonts
+-rwxr-xr-x 1 0   0    39104 Apr 29  2016 pdfimages
+-rwxr-xr-x 1 0   0    22720 Apr 29  2016 pdfinfo
+lrwxrwxrwx 1 0   0        6 May  1  2012 pdfjadetex -> pdftex
+lrwxrwxrwx 1 0   0       49 Feb 20  2014 pdfjam -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfjam
+lrwxrwxrwx 1 0   0       59 Feb 20  2014 pdfjam-pocketmod -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfjam-pocketmod
+lrwxrwxrwx 1 0   0       59 Feb 20  2014 pdfjam-slides3up -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfjam-slides3up
+lrwxrwxrwx 1 0   0       59 Feb 20  2014 pdfjam-slides6up -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfjam-slides6up
+lrwxrwxrwx 1 0   0       50 Feb 20  2014 pdfjoin -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfjoin
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 pdflatex -> pdftex
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 pdfmex -> pdftex
+-rwxr-xr-x 1 0   0     1877 Jan 22  2014 pdfmom
+lrwxrwxrwx 1 0   0       49 Feb 20  2014 pdfnup -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfnup
+-rwxr-xr-x 1 0   0    16632 Jan 22  2014 pdfopen
+lrwxrwxrwx 1 0   0       49 Feb 20  2014 pdfpun -> ../share/texlive/texmf-dist/scripts/pdfjam/pdfpun
+-rwxr-xr-x 1 0   0    20598 Jan 22  2014 pdfroff
+-rwxr-xr-x 1 0   0    14408 Apr 29  2016 pdfseparate
+-rwxr-xr-x 1 0   0   716568 Jan 22  2014 pdftex
+-rwxr-xr-x 1 0   0     1302 Dec 11  2013 pdftexi2dvi
+-rwxr-xr-x 1 0   0  3206568 Jul  3  2013 pdftk
+-rwxr-xr-x 1 0   0   120936 Apr 29  2016 pdftocairo
+-rwxr-xr-x 1 0   0    96360 Apr 29  2016 pdftohtml
+-rwxr-xr-x 1 0   0    22624 Apr 29  2016 pdftoppm
+-rwxr-xr-x 1 0   0    22728 Apr 29  2016 pdftops
+-rwxr-xr-x 1 0   0    14760 Jan 22  2014 pdftosrc
+-rwxr-xr-x 1 0   0    26832 Apr 29  2016 pdftotext
+-rwxr-xr-x 1 0   0       54 Jul 31  2013 pdftrimwhite
+-rwxr-xr-x 1 0   0    18504 Apr 29  2016 pdfunite
+lrwxrwxrwx 1 0   0        6 Jan 22  2014 pdvitomp -> pmpost
+-rwxr-xr-x 1 0   0    51760 Jan 22  2014 pdvitype
+lrwxrwxrwx 1 0   0       61 Feb 20  2014 pedigree -> ../share/texlive/texmf-dist/scripts/pedigree-perl/pedigree.pl
+-rwxr-xr-x 1 0   0    10488 Nov 29  2012 peekfd
+-rwxr-xr-x 1 0   0    10416 Mar  1  2016 perl
+-rwxr-xr-x 1 0   0    10416 Mar  1  2016 perl5.18.2
+-rwxr-xr-x 1 0   0    41774 Mar  1  2016 perlbug
+-rwxr-xr-x 1 0   0      125 Mar  1  2016 perldoc
+-rwxr-xr-x 1 0   0    10823 Mar  1  2016 perlivp
+lrwxrwxrwx 1 0   0       54 Feb 20  2014 perltex -> ../share/texlive/texmf-dist/scripts/perltex/perltex.pl
+-rwxr-xr-x 1 0   0    41774 Mar  1  2016 perlthanks
+-rwxr-xr-x 1 0   0      498 Dec  7  2016 pf2afm
+lrwxrwxrwx 1 0   0       55 Feb 20  2014 pfarrei -> ../share/texlive/texmf-dist/scripts/pfarrei/pfarrei.tlu
+-rwxr-xr-x 1 0   0    10440 Jan 22  2014 pfb2pfa
+-rwxr-xr-x 1 0   0    10456 Jul 18  2013 pfb2t1c
+-rwxr-xr-x 1 0   0      516 Dec  7  2016 pfbtopfa
+-rwxr-xr-x 1 0   0    14544 Jan 22  2014 pfbtops
+-rwxr-xr-x 1 0   0    31384 Nov 23  2016 pg
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_archivecleanup -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_basebackup -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0     1230 Aug 31  2016 pg_config
+-rwxr-xr-x 1 0   0    30792 Feb  7  2017 pg_config.libpq-dev
+-rwxr-xr-x 1 0   0     5473 Mar  5  2016 pg_conftool
+-rwxr-xr-x 1 0   0    33552 Jan 24  2017 pg_createcluster
+-rwxr-xr-x 1 0   0    22679 Jan 23  2017 pg_ctlcluster
+-rwxr-xr-x 1 0   0     4962 Jan 24  2017 pg_dropcluster
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_dump -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_dumpall -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_isready -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0     3278 Aug 31  2016 pg_lsclusters
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_receivexlog -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_recvlogical -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0     5674 Nov 23  2016 pg_renamecluster
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pg_restore -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0    31239 Dec  9  2016 pg_upgradecluster
+-rwxr-xr-x 1 0   0     7435 Feb 21  2016 pg_virtualenv
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 pgbench -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0    27216 Feb 10  2015 pgrep
+-rwxr-xr-x 1 0   0    14488 Jul 28  2011 pgrphack
+-rwxr-xr-x 1 0   0   807496 Dec  8  2013 phmmer
+-rwxr-xr-x 1 0   0   172528 Jan 22  2014 pic
+-rwxr-xr-x 1 0   0     3016 Jan 22  2014 pic2graph
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 pico -> /etc/alternatives/pico
+-rwxr-xr-x 1 0   0     7337 Mar  1  2016 piconv
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 pinentry -> /etc/alternatives/pinentry
+-rwxr-xr-x 1 0   0   107288 Jan 24  2014 pinentry-gtk-2
+lrwxrwxrwx 1 0   0       30 Mar  3  2017 pinentry-x11 -> /etc/alternatives/pinentry-x11
+-rwxr-xr-x 1 0   0    35584 Mar 10  2016 pinky
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 pixeltool -> qtchooser
+-rwxr-xr-x 1 0   0    14496 Jan 22  2014 pk2bm
+lrwxrwxrwx 1 0   0       50 Feb 20  2014 pkfix -> ../share/texlive/texmf-dist/scripts/pkfix/pkfix.pl
+lrwxrwxrwx 1 0   0       61 Feb 20  2014 pkfix-helper -> ../share/texlive/texmf-dist/scripts/pkfix-helper/pkfix-helper
+-rwxr-xr-x 1 0   0    43696 Jul 14  2013 pkg-config
+-rwxr-xr-x 1 0   0    39864 Sep 11  2015 pkgdata
+lrwxrwxrwx 1 0   0        5 Feb 10  2015 pkill -> pgrep
+-rwxr-xr-x 1 0   0    22904 Jan 22  2014 pktogf
+-rwxr-xr-x 1 0   0    18736 Jan 22  2014 pktype
+-rwxr-xr-x 1 0   0     4531 Mar  1  2016 pl2pm
+lrwxrwxrwx 1 0   0        5 Feb 17  2014 platex -> eptex
+-rwxr-xr-x 1 0   0    14800 May 26  2016 pldd
+-rwxr-xr-x 1 0   0    47480 Jan 22  2014 pltotf
+-rwxr-xr-x 1 0   0    27192 Feb 10  2015 pmap
+-rwxr-xr-x 1 0   0   693104 Jan 22  2014 pmpost
+lrwxrwxrwx 1 0   0       38 Dec 14  2013 pmx2pdf -> ../share/texmf/scripts/pmx/pmx2pdf.lua
+-rwxr-xr-x 1 0   0   505480 Dec 14  2013 pmxab
+-rwxr-xr-x 1 0   0     2038 Mar  1  2016 pod2html
+-rwxr-xr-x 1 0   0    10340 May 31  2013 pod2latex
+-rwxr-xr-x 1 0   0    10339 Mar  1  2016 pod2latex.bundled
+-rwxr-xr-x 1 0   0    13665 Mar  1  2016 pod2man
+-rwxr-xr-x 1 0   0    19703 Dec 11  2013 pod2texi
+-rwxr-xr-x 1 0   0    11088 Mar  1  2016 pod2text
+-rwxr-xr-x 1 0   0     3755 Mar  1  2016 pod2usage
+-rwxr-xr-x 1 0   0     3784 Mar  1  2016 podchecker
+-rwxr-xr-x 1 0   0     2612 Mar  1  2016 podselect
+lrwxrwxrwx 1 0   0       28 Mar  3  2017 policytool -> /etc/alternatives/policytool
+-rwxr-xr-x 1 0   0    14632 Jan 22  2014 pooltype
+-rwxr-xr-x 1 0   0   182048 Jan 22  2014 post-grohtml
+-rwxr-xr-x 1 0   0      404 Dec  7  2016 pphs
+-rwxr-xr-x 1 0   0    59880 Jan 22  2014 ppltotf
+-rwxr-xr-x 1 0   0    64288 Mar 10  2016 pr
+-rwxr-xr-x 1 0   0    83864 Jan 22  2014 pre-grohtml
+-rwxr-xr-x 1 0   0     5656 Dec 15  2013 precat
+-rwxr-xr-x 1 0   0    39552 Jan 22  2014 preconv
+-rwxr-xr-x 1 0   0     2987 Mar  1  2016 prename
+-rwxr-xr-x 1 0   0   111216 Dec 14  2013 prepmx
+-rwxr-xr-x 1 0   0     5656 Dec 15  2013 preunzip
+-rwxr-xr-x 1 0   0     5656 Dec 15  2013 prezip
+-rwxr-xr-x 1 0   0    10384 Dec 15  2013 prezip-bin
+lrwxrwxrwx 1 0   0       11 Jan  6  2015 print -> run-mailcap
+-rwxr-xr-x 1 0   0      395 Dec  7  2016 printafm
+-rwxr-xr-x 1 0   0    27208 Mar 10  2016 printenv
+-rwxr-xr-x 1 0   0    18640 Jun  4  2013 printerbanner
+-rwxr-xr-x 1 0   0    51840 Mar 10  2016 printf
+-rwxr-xr-x 1 0   0    19320 May 25  2013 prooftrans
+lrwxrwxrwx 1 0   0       45 Mar  3  2017 protractor -> ../lib/node_modules/protractor/bin/protractor
+-rwxr-xr-x 1 0   0    11085 Mar  1  2016 prove
+-rwxr-xr-x 1 0   0   115336 May 25  2013 prover9
+-rwxr-xr-x 1 0   0    14640 Nov 29  2012 prtstat
+-rwxr-xr-x 1 0   0    14704 Dec  5  2014 prune
+-rwxr-xr-x 1 0   0      740 Dec  7  2016 ps2ascii
+-rwxr-xr-x 1 0   0     2794 Dec  7  2016 ps2epsi
+lrwxrwxrwx 1 0   0       54 Feb 20  2014 ps2frag -> ../share/texlive/texmf-dist/scripts/texlive/ps2frag.sh
+-rwxr-xr-x 1 0   0      272 Dec  7  2016 ps2pdf
+-rwxr-xr-x 1 0   0      215 Dec  7  2016 ps2pdf12
+-rwxr-xr-x 1 0   0      215 Dec  7  2016 ps2pdf13
+-rwxr-xr-x 1 0   0      215 Dec  7  2016 ps2pdf14
+-rwxr-xr-x 1 0   0     1097 Dec  7  2016 ps2pdfwr
+-rwxr-xr-x 1 0   0   132944 Jan 22  2014 ps2pk
+-rwxr-xr-x 1 0   0      647 Dec  7  2016 ps2ps
+-rwxr-xr-x 1 0   0      669 Dec  7  2016 ps2ps2
+lrwxrwxrwx 1 0   0        8 Dec  7  2016 ps2txt -> ps2ascii
+lrwxrwxrwx 1 0   0       50 Feb 20  2014 ps4pdf -> ../share/texlive/texmf-dist/scripts/pst-pdf/ps4pdf
+-rwxr-xr-x 1 0   0    18832 Oct 29  2012 psbook
+-rwxr-xr-x 1 0   0    53329 Mar  1  2016 psed
+lrwxrwxrwx 1 0   0        9 Feb 18  2013 psfaddtable -> psfxtable
+lrwxrwxrwx 1 0   0        9 Feb 18  2013 psfgettable -> psfxtable
+lrwxrwxrwx 1 0   0        9 Feb 18  2013 psfstriptable -> psfxtable
+-rwxr-xr-x 1 0   0    18808 Feb 18  2013 psfxtable
+-rwxr-xr-x 1 0   0     5122 Oct 29  2012 psjoin
+lrwxrwxrwx 1 0   0       54 Feb 20  2014 pslatex -> ../share/texlive/texmf-dist/scripts/texlive/pslatex.sh
+-rwxr-xr-x 1 0   0     2700 Oct 29  2012 psmerge
+-rwxr-xr-x 1 0   0    31392 Oct 29  2012 psnup
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 psql -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0    27296 Oct 29  2012 psresize
+-rwxr-xr-x 1 0   0    22928 Oct 29  2012 psselect
+lrwxrwxrwx 1 0   0       54 Feb 20  2014 pst2pdf -> ../share/texlive/texmf-dist/scripts/pst2pdf/pst2pdf.pl
+-rwxr-xr-x 1 0   0     6304 Dec 22  2013 pstoedit
+-rwxr-xr-x 1 0   0       39 Jul 31  2013 pstopdf
+-rwxr-xr-x 1 0   0    27304 Oct 29  2012 pstops
+-rwxr-xr-x 1 0   0    23280 Nov 29  2012 pstree
+lrwxrwxrwx 1 0   0        6 Nov 29  2012 pstree.x11 -> pstree
+-rwxr-xr-x 1 0   0    36607 Mar  1  2016 pstruct
+-rwxr-xr-x 1 0   0     3524 Mar  1  2016 ptar
+-rwxr-xr-x 1 0   0     2472 Mar  1  2016 ptardiff
+-rwxr-xr-x 1 0   0     4239 Mar  1  2016 ptargrep
+-rwxr-xr-x 1 0   0   360976 Jan 22  2014 ptex
+lrwxrwxrwx 1 0   0       57 Feb 17  2014 ptex2pdf -> ../share/texlive/texmf-dist/scripts/ptex2pdf/ptex2pdf.lua
+-rwxr-xr-x 1 0   0    47584 Jan 22  2014 ptftopl
+-rwxr-xr-x 1 0   0    64352 Mar 10  2016 ptx
+-rwxr-xr-x 1 0   0    17161 May  1  2012 purifyeps
+-rwxr-xr-x 1 0   0    75200 Mar 22  2014 pvtk
+-rwxr-xr-x 1 0   0    73560 Mar 22  2014 pvtkpython
+-rwxr-xr-x 1 0   0    10544 Feb 10  2015 pwdx
+-rwxr-xr-x 1 0   0     7269 Mar 23  2014 py3clean
+-rwxr-xr-x 1 0   0    12120 Mar 23  2014 py3compile
+lrwxrwxrwx 1 0   0       31 Mar 23  2014 py3versions -> ../share/python3/py3versions.py
+-rwxr-xr-x 1 0   0       64 Feb 25  2014 pyalacarte
+-rwxr-xr-x 1 0   0       63 Feb 25  2014 pyalamode
+lrwxrwxrwx 1 0   0       26 Jul 16  2015 pybuild -> ../share/dh-python/pybuild
+-rwxr-xr-x 1 0   0     4123 Dec 21  2013 pyclean
+-rwxr-xr-x 1 0   0    11894 Dec 21  2013 pycompile
+-rwxr-xr-x 1 0   0       61 Feb 25  2014 pycrust
+lrwxrwxrwx 1 0   0        8 Dec 21  2013 pydoc -> pydoc2.7
+-rwxr-xr-x 1 0   0       79 Oct 22  2014 pydoc2.6
+-rwxr-xr-x 1 0   0       79 Oct 26  2016 pydoc2.7
+lrwxrwxrwx 1 0   0        8 Mar 23  2014 pydoc3 -> pydoc3.4
+-rwxr-xr-x 1 0   0       79 Jan 28  2015 pydoc3.3
+-rwxr-xr-x 1 0   0       79 Nov 17  2016 pydoc3.4
+-rwxr-xr-x 1 0   0       79 Jul 17  2016 pydoc3.5
+-rwxr-xr-x 1 0   0       79 Jan 13  2017 pydoc3.6
+lrwxrwxrwx 1 0   0       12 Dec 21  2013 pygettext -> pygettext2.7
+-rwxr-xr-x 1 0   0    22103 Oct 22  2014 pygettext2.6
+-rwxr-xr-x 1 0   0    22097 Oct 26  2016 pygettext2.7
+lrwxrwxrwx 1 0   0       12 Mar 23  2014 pygettext3 -> pygettext3.4
+-rwxr-xr-x 1 0   0    22368 Jan 28  2015 pygettext3.3
+-rwxr-xr-x 1 0   0    22368 Nov 17  2016 pygettext3.4
+-rwxr-xr-x 1 0   0    22256 Jul 17  2016 pygettext3.5
+-rwxr-xr-x 1 0   0    21098 Jan 13  2017 pygettext3.6
+lrwxrwxrwx 1 0   0        9 Dec 21  2013 python -> python2.7
+lrwxrwxrwx 1 0   0       16 Dec 21  2013 python-config -> python2.7-config
+lrwxrwxrwx 1 0   0        9 Dec 21  2013 python2 -> python2.7
+lrwxrwxrwx 1 0   0       16 Dec 21  2013 python2-config -> python2.7-config
+-rwxr-xr-x 1 0   0  2854352 Oct 22  2014 python2.6
+-rwxr-xr-x 1 0   0     1452 Oct 22  2014 python2.6-config
+-rwxr-xr-x 1 0   0  3341384 Oct 26  2016 python2.7
+lrwxrwxrwx 1 0   0       33 Oct 26  2016 python2.7-config -> x86_64-linux-gnu-python2.7-config
+lrwxrwxrwx 1 0   0        9 Mar 23  2014 python3 -> python3.4
+-rwxr-xr-x 1 0   0  3413232 Jan 28  2015 python3.3
+lrwxrwxrwx 1 0   0       33 Jan 28  2015 python3.3-config -> x86_64-linux-gnu-python3.3-config
+-rwxr-xr-x 1 0   0  3413232 Jan 28  2015 python3.3m
+lrwxrwxrwx 1 0   0       34 Jan 28  2015 python3.3m-config -> x86_64-linux-gnu-python3.3m-config
+-rwxr-xr-x 1 0   0  3693624 Nov 17  2016 python3.4
+lrwxrwxrwx 1 0   0       33 Nov 17  2016 python3.4-config -> x86_64-linux-gnu-python3.4-config
+-rwxr-xr-x 1 0   0  3693624 Nov 17  2016 python3.4m
+lrwxrwxrwx 1 0   0       34 Nov 17  2016 python3.4m-config -> x86_64-linux-gnu-python3.4m-config
+-rwxr-xr-x 1 0   0  3759688 Jul 17  2016 python3.5
+lrwxrwxrwx 1 0   0       33 Jul 17  2016 python3.5-config -> x86_64-linux-gnu-python3.5-config
+-rwxr-xr-x 1 0   0  3759688 Jul 17  2016 python3.5m
+lrwxrwxrwx 1 0   0       34 Jul 17  2016 python3.5m-config -> x86_64-linux-gnu-python3.5m-config
+-rwxr-xr-x 1 0   0  4465376 Jan 13  2017 python3.6
+lrwxrwxrwx 1 0   0       33 Jan 13  2017 python3.6-config -> x86_64-linux-gnu-python3.6-config
+-rwxr-xr-x 1 0   0  4465376 Jan 13  2017 python3.6m
+lrwxrwxrwx 1 0   0       34 Jan 13  2017 python3.6m-config -> x86_64-linux-gnu-python3.6m-config
+lrwxrwxrwx 1 0   0       10 Mar 23  2014 python3m -> python3.4m
+lrwxrwxrwx 1 0   0       58 Feb 20  2014 pythontex -> ../share/texlive/texmf-dist/scripts/pythontex/pythontex.py
+-rwxr-xr-x 1 0   0      306 Feb 20  2014 pythontex3
+-rwxr-xr-x 1 0   0      231 Jan 28  2015 pyvenv-3.3
+lrwxrwxrwx 1 0   0       29 Dec 21  2013 pyversions -> ../share/python/pyversions.py
+-rwxr-xr-x 1 0   0       60 Feb 25  2014 pywrap
+-rwxr-xr-x 1 0   0       64 Feb 25  2014 pywxrc
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qcollectiongenerator -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qdbus -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qdbuscpp2xml -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qdbusviewer -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qdbusxml2cpp -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qdoc -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qdoc3 -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qglinfo -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qhelpconverter -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qhelpgenerator -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmake -> qtchooser
+lrwxrwxrwx 1 0   0       37 May 27  2015 qmake-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/qmake
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qml -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qml1plugindump -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmlbundle -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmlimportscanner -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmlmin -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmlplugindump -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmlprofiler -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmlscene -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmltestrunner -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qmlviewer -> qtchooser
+-rwxr-xr-x 1 0   0    10472 Dec  7  2016 qt-faststart
+-rwxr-xr-x 1 0   0    31328 Feb 19  2014 qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qtconfig -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 qtpaths -> qtchooser
+-rwxr-xr-x 1 0   0  3093760 Apr 14  2014 quantlib-benchmark
+-rwxr-xr-x 1 0   0      910 Apr 14  2014 quantlib-config
+-rwxr-xr-x 1 0   0  9661568 Apr 14  2014 quantlib-test-suite
+-rwxr-xr-x 1 0   0     1232 Nov 19  2014 rake1.9.1
+-rwxr-xr-x 1 0   0    60440 May  2  2016 ranlib
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 rcc -> qtchooser
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 rcp -> /etc/alternatives/rcp
+lrwxrwxrwx 1 0   0        9 Feb 15  2014 rdoc -> rdoc1.9.1
+-rwxr-xr-x 1 0   0      789 Nov 19  2014 rdoc1.9.1
+-rwxr-xr-x 1 0   0    40232 Jan 14  2014 rds-ctl
+-rwxr-xr-x 1 0   0   434912 May  2  2016 readelf
+lrwxrwxrwx 1 0   0       33 Mar  3  2017 readline-editor -> /etc/alternatives/readline-editor
+-rwxr-xr-x 1 0   0     6176 Jul 28  2011 readproctitle
+-rwxr-xr-x 1 0   0     1971 Apr  7  2014 rebuild-gcj-db
+-rwxr-xr-x 1 0   0    14560 Apr 28  2014 recode-sr-latin
+-rwxr-xr-x 1 0   0   110744 Jan 22  2014 refer
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 reindexdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       24 Jun 24  2016 rename -> /etc/alternatives/rename
+-rwxr-xr-x 1 0   0    10432 Nov 23  2016 rename.ul
+-rwxr-xr-x 1 0   0    10440 Nov 23  2016 renice
+lrwxrwxrwx 1 0   0        8 Feb 20  2014 repstopdf -> epstopdf
+lrwxrwxrwx 1 0   0        4 Mar 22  2014 reset -> tset
+-rwxr-xr-x 1 0   0    18984 Feb 18  2013 resizecons
+-rwxr-xr-x 1 0   0    31328 Nov 23  2016 resizepart
+-rwxr-xr-x 1 0   0    10488 Nov 23  2016 rev
+-rwxr-xr-x 1 0   0       30 Jan 18  2014 rgrep
+lrwxrwxrwx 1 0   0        7 Feb 15  2014 ri -> ri1.9.1
+-rwxr-xr-x 1 0   0      189 Nov 19  2014 ri1.9.1
+lrwxrwxrwx 1 0   0        3 Feb 17  2014 rjoe -> joe
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 rlogin -> /etc/alternatives/rlogin
+-rwxr-xr-x 1 0   0    70152 Mar 10  2014 rlwrap
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 rmic -> /etc/alternatives/rmic
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 rmid -> /etc/alternatives/rmid
+lrwxrwxrwx 1 0   0       29 Mar  3  2017 rmiregistry -> /etc/alternatives/rmiregistry
+-rwxr-xr-x 1 0   0     5607 Jan 22  2014 roff2dvi
+-rwxr-xr-x 1 0   0     5607 Jan 22  2014 roff2html
+-rwxr-xr-x 1 0   0     5607 Jan 22  2014 roff2pdf
+-rwxr-xr-x 1 0   0     5607 Jan 22  2014 roff2ps
+-rwxr-xr-x 1 0   0     5607 Jan 22  2014 roff2text
+-rwxr-xr-x 1 0   0     5607 Jan 22  2014 roff2x
+-rwxr-xr-x 1 0   0      173 Nov 23  2013 routef
+-rwxr-xr-x 1 0   0     1262 Nov 23  2013 routel
+-rwxr-xr-x 1 0   0    93104 May 26  2016 rpcgen
+lrwxrwxrwx 1 0   0        7 Feb 20  2014 rpdfcrop -> pdfcrop
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 rsh -> /etc/alternatives/rsh
+-rwxr-xr-x 1 0   0   394800 Jan 20  2016 rsync
+lrwxrwxrwx 1 0   0        6 Jul 23  2015 rtstat -> lnstat
+lrwxrwxrwx 1 0   0       55 Feb 17  2014 rubibtex -> ../share/texlive/texmf-dist/scripts/texlive/rubibtex.sh
+lrwxrwxrwx 1 0   0        9 Feb 15  2014 ruby -> ruby1.9.1
+-rwxr-xr-x 1 0   0     6304 Nov 19  2014 ruby1.9.1
+lrwxrwxrwx 1 0   0       58 Feb 17  2014 rumakeindex -> ../share/texlive/texmf-dist/scripts/texlive/rumakeindex.sh
+-rwxr-xr-x 1 0   0    16840 Jan  6  2015 run-mailcap
+-rwxr-xr-x 1 0   0       57 Dec 15  2013 run-with-aspell
+-rwxr-xr-x 1 0   0    31424 Mar 10  2016 runcon
+lrwxrwxrwx 1 0   0       21 Apr 12  2014 runghc -> ../lib/ghc/bin/runghc
+lrwxrwxrwx 1 0   0       27 Apr 12  2014 runghc-7.6.3 -> ../lib/ghc/bin/runghc-7.6.3
+lrwxrwxrwx 1 0   0       28 Mar  3  2017 runhaskell -> /etc/alternatives/runhaskell
+lrwxrwxrwx 1 0   0       23 Jun 24  2016 rview -> /etc/alternatives/rview
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 rvim -> /etc/alternatives/rvim
+-rwxr-xr-x 1 0   0    53329 Mar  1  2016 s2p
+-rwxr-xr-x 1 0   0    10469 Aug 28  2013 savelog
+-rwxr-xr-x 1 0   0    14768 Dec  5  2014 sccmap
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 schemagen -> /etc/alternatives/schemagen
+-rwxr-xr-x 1 0   0    87216 Dec 14  2013 scor2prt
+-rwxr-xr-x 1 0   0    67680 Aug 11  2016 scp
+-rwxr-sr-x 1 0  43   421768 Nov  7  2013 screen
+-rwxr-xr-x 1 0   0    10520 Feb 18  2013 screendump
+-rwxr-xr-x 1 0   0    14760 Nov 23  2016 script
+-rwxr-xr-x 1 0   0    10520 Nov 23  2016 scriptreplay
+-rwxr-xr-x 1 0   0    47848 Oct 21  2013 sdiff
+lrwxrwxrwx 1 0   0       11 Jan  6  2015 see -> run-mailcap
+-rwxr-xr-x 1 0   0      474 Jan 14  2014 select-default-iwrap
+-rwxr-xr-x 1 0   0     1215 Jun 17  2013 select-editor
+-rwxr-xr-x 1 0   0     1436 Jun 17  2013 sensible-browser
+-rwxr-xr-x 1 0   0     1109 Jun 17  2013 sensible-editor
+-rwxr-xr-x 1 0   0      288 Jun 17  2013 sensible-pager
+-rwxr-xr-x 1 0   0    47744 Mar 10  2016 seq
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 serialver -> /etc/alternatives/serialver
+lrwxrwxrwx 1 0   0       28 Mar  3  2017 servertool -> /etc/alternatives/servertool
+lrwxrwxrwx 1 0   0       15 Feb 17  2016 service -> ../sbin/service
+-rwxr-xr-x 1 0   0    14536 Nov 23  2016 setarch
+-rwxr-xr-x 1 0   0    10480 Feb 18  2013 setkeycodes
+-rwxr-xr-x 1 0   0    10504 Feb 18  2013 setleds
+-rwxr-xr-x 1 0   0    14520 Jul 28  2011 setlock
+-rwxr-xr-x 1 0   0    10464 Feb 18  2013 setlogcons
+-rwxr-xr-x 1 0   0    10552 Feb 18  2013 setmetamode
+-rwxr-xr-x 1 0   0     6312 Nov 23  2016 setsid
+-rwxr-xr-x 1 0   0    26992 Nov 23  2016 setterm
+-rwxr-xr-x 1 0   0    14520 Jul 28  2011 setuidgid
+-rwxr-xr-x 1 0   0    20592 Jan  6  2014 setxkbmap
+lrwxrwxrwx 1 0   0        3 Dec  5  2014 sfdp -> dot
+-rwxr-xr-x 1 0   0   121152 Aug 11  2016 sftp
+lrwxrwxrwx 1 0   0        6 Jan 27  2016 sg -> newgrp
+-rwxr-xr-x 1 0   0    40416 Jan  6  2014 sgml2xml
+-rwxr-xr-x 1 0   0    15070 Oct 29  2012 sgmldiff
+-rwxr-xr-x 1 0   0    32088 Jan  6  2014 sgmlnorm
+-rwxr-xr-x 1 0   0    10016 May  3  2008 sgmlspl
+-rwxr-xr-x 1 0   0    43680 Mar 10  2016 sha1sum
+-rwxr-xr-x 1 0   0    47784 Mar 10  2016 sha224sum
+-rwxr-xr-x 1 0   0    47784 Mar 10  2016 sha256sum
+-rwxr-xr-x 1 0   0    51880 Mar 10  2016 sha384sum
+-rwxr-xr-x 1 0   0    51880 Mar 10  2016 sha512sum
+-rwxr-xr-x 1 0   0     8594 Mar  1  2016 shasum
+-rwxr-xr-x 1 0   0  1504912 Jan  8  2013 shcomp
+-rwxr-xr-x 1 0   0     2567 Oct 29  2012 showchar
+-rwxr-xr-x 1 0   0    18784 Feb 18  2013 showconsolefont
+-rwxr-xr-x 1 0   0    14624 Feb 18  2013 showkey
+-rwxr-xr-x 1 0   0    52016 Mar 10  2016 shred
+-rwxr-xr-x 1 0   0    47840 Mar 10  2016 shuf
+lrwxrwxrwx 1 0   0       55 Feb 17  2014 simpdftex -> ../share/texlive/texmf-dist/scripts/simpdftex/simpdftex
+-rwxr-xr-x 1 0   0    27536 May  2  2016 size
+-rwxr-xr-x 1 0   0     6256 Dec 28  2013 sjisconv
+-rwxr-xr-x 1 0   0     1217 Dec 28  2013 sjislatex
+-rwxr-xr-x 1 0   0     1220 Dec 28  2013 sjispdflatex
+-rwxr-xr-x 1 0   0    23088 Feb 10  2015 skill
+-rwxr-xr-x 1 0   0   219440 Jun 25  2013 skt
+-rwxr-xr-x 1 0   0    18856 Feb 10  2015 slabtop
+lrwxrwxrwx 1 0   0        3 Aug 11  2016 slogin -> ssh
+-rwxr-xr-x 1 0   0    27267 Dec  9  2014 smime_keys
+lrwxrwxrwx 1 0   0        5 Feb 10  2015 snice -> skill
+-rwxr-xr-x 1 0   0    31168 Jan 22  2014 soelim
+-rwxr-xr-x 1 0   0    18616 Jul 28  2011 softlimit
+-rwxr-xr-x 1 0   0   101760 Mar 10  2016 sort
+-rwxr-xr-x 1 0   0     4369 May 26  2016 sotruss
+-rwxr-xr-x 1 0   0    70544 Jan 30  2014 source-highlight
+-rwxr-xr-x 1 0   0    14768 Jan 30  2014 source-highlight-settings
+-rwxr-xr-x 1 0   0    48680 Jan  6  2014 spam
+-rwxr-xr-x 1 0   0    12000 Jan  6  2014 spent
+-rwxr-xr-x 1 0   0    18646 Mar  1  2016 splain
+-rwxr-xr-x 1 0   0    64816 Mar 10  2016 split
+-rwxr-xr-x 1 0   0    10456 Feb 18  2013 splitfont
+lrwxrwxrwx 1 0   0       60 Feb 20  2014 splitindex -> ../share/texlive/texmf-dist/scripts/splitindex/splitindex.pl
+-rwxr-xr-x 1 0   0    23152 May 26  2016 sprof
+-rwxr-xr-x 1 0   0    62400 Jul 15  2015 sqlite3
+-rwxr-xr-x 1 0   0   641664 Aug 11  2016 ssh
+-rwxr-xr-x 1 0   0   325728 Aug 11  2016 ssh-add
+-rwxr-sr-x 1 0 107   284784 Aug 11  2016 ssh-agent
+-rwxr-xr-x 1 0   0     1456 May  2  2014 ssh-argv0
+-rwxr-xr-x 1 0   0     9325 Jun  5  2013 ssh-copy-id
+-rwxr-xr-x 1 0   0   407840 Aug 11  2016 ssh-keygen
+-rwxr-xr-x 1 0   0   415960 Aug 11  2016 ssh-keyscan
+-rwxr-xr-x 1 0   0    78152 Feb 10  2014 sshfs
+-rwxr-xr-x 1 0   0    76704 Mar 10  2016 stat
+-rwxr-xr-x 1 0   0    64256 Mar 10  2016 stdbuf
+-rwxr-xr-x 1 0   0   433152 Mar 13  2014 strace
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 stream -> /etc/alternatives/stream
+-rwxr-xr-x 1 0   0     6320 Feb 22  2017 stream.im6
+-rwxr-xr-x 1 0   0    27600 May  2  2016 strings
+-rwxr-xr-x 1 0   0   220128 May  2  2016 strip
+lrwxrwxrwx 1 0   0       54 Feb 20  2014 sty2dtx -> ../share/texlive/texmf-dist/scripts/sty2dtx/sty2dtx.pl
+-rwsr-xr-x 1 0   0   155008 Oct 14  2016 sudo
+lrwxrwxrwx 1 0   0        4 Oct 14  2016 sudoedit -> sudo
+-rwxr-xr-x 1 0   0    81672 Oct 14  2016 sudoreplay
+-rwxr-xr-x 1 0   0    35496 Mar 10  2016 sum
+-rwxr-xr-x 1 0   0    18792 Jul 28  2011 supervise
+-rwxr-xr-x 1 0   0    14568 Jul 28  2011 svc
+-rwxr-xr-x 1 0   0   266528 Aug 20  2015 svn
+-rwxr-xr-x 1 0   0    47936 Aug 20  2015 svn-bench
+lrwxrwxrwx 1 0   0       58 Feb 20  2014 svn-multi -> ../share/texlive/texmf-dist/scripts/svn-multi/svn-multi.pl
+-rwxr-xr-x 1 0   0    10512 Aug 20  2015 svn-populate-node-origins-index
+-rwxr-xr-x 1 0   0    15120 Aug 20  2015 svn-rep-sharing-stats
+-rwxr-xr-x 1 0   0    72744 Aug 20  2015 svnadmin
+-rwxr-xr-x 1 0   0    23000 Aug 20  2015 svnauthz
+-rwxr-xr-x 1 0   0    23008 Aug 20  2015 svnauthz-validate
+-rwxr-xr-x 1 0   0    35680 Aug 20  2015 svndumpfilter
+-rwxr-xr-x 1 0   0    68872 Aug 20  2015 svnlook
+-rwxr-xr-x 1 0   0    31584 Aug 20  2015 svnmucc
+-rwxr-xr-x 1 0   0    14744 Aug 20  2015 svnraisetreeconflict
+-rwxr-xr-x 1 0   0    52496 Aug 20  2015 svnrdump
+-rwxr-xr-x 1 0   0    82160 Aug 20  2015 svnserve
+-rwxr-xr-x 1 0   0    52128 Aug 20  2015 svnsync
+-rwxr-xr-x 1 0   0    14864 Aug 20  2015 svnversion
+-rwxr-xr-x 1 0   0    10376 Jul 28  2011 svok
+-rwxr-xr-x 1 0   0    18672 Jul 28  2011 svscan
+-rwxr-xr-x 1 0   0      743 Jul 28  2011 svscanboot
+-rwxr-xr-x 1 0   0    14568 Jul 28  2011 svstat
+lrwxrwxrwx 1 0   0        7 Feb 25  2014 swig -> swig2.0
+-rwxr-xr-x 1 0   0  1393112 Feb 25  2014 swig2.0
+-rwxr-xr-x 1 0   0   113256 Mar 27  2015 symcryptrun
+-rwxr-xr-x 1 0   0    80320 Jan 22  2014 synctex
+-rwxr-xr-x 1 0   0    35368 Jun  2  2015 t1ascii
+-rwxr-xr-x 1 0   0    40528 Jun  2  2015 t1asm
+-rwxr-xr-x 1 0   0    35336 Jun  2  2015 t1binary
+-rwxr-xr-x 1 0   0    10472 Jul 18  2013 t1c2pfb
+-rwxr-xr-x 1 0   0    43560 Jun  2  2015 t1disasm
+-rwxr-xr-x 1 0   0   277208 Feb 12  2013 t1dotlessj
+-rwxr-xr-x 1 0   0   244408 Feb 12  2013 t1lint
+-rwxr-xr-x 1 0   0    47784 Jun  2  2015 t1mac
+-rwxr-xr-x 1 0   0   240352 Feb 12  2013 t1rawafm
+-rwxr-xr-x 1 0   0   273128 Feb 12  2013 t1reencode
+-rwxr-xr-x 1 0   0   256768 Feb 12  2013 t1testpage
+-rwxr-xr-x 1 0   0    43760 Jun  2  2015 t1unmac
+-rwxr-xr-x 1 0   0    30920 Jun  6  2012 t4ht
+-rwxr-xr-x 1 0   0    14680 Mar 22  2014 tabs
+-rwxr-xr-x 1 0   0    31392 Mar 10  2016 tac
+-rwxr-xr-x 1 0   0    10384 Jul 28  2011 tai64n
+-rwxr-xr-x 1 0   0    10448 Jul 28  2011 tai64nlocal
+-rwxr-xr-x 1 0   0    64320 Mar 10  2016 tail
+-rwxr-xr-x 1 0   0    43472 Jan 22  2014 tangle
+-rwxr-xr-x 1 0   0  1687064 Jul 17  2013 task
+-rwxr-xr-x 1 0   0    18808 Nov 23  2016 taskset
+lrwxrwxrwx 1 0   0        5 Oct 10  2013 tasm -> ytasm
+-rwxr-xr-x 1 0   0   109064 Jan 22  2014 tbl
+lrwxrwxrwx 1 0   0        8 Mar  6  2014 tclsh -> tclsh8.6
+-rwxr-xr-x 1 0   0     6152 Jan  1  2014 tclsh8.5
+-rwxr-xr-x 1 0   0     6168 Jan  2  2014 tclsh8.6
+-rwxr-xr-x 1 0   0     6323 Mar  6  2014 tcltk-depends
+-rwxr-xr-x 1 0   0   391152 Jun 22  2012 tcsh
+-rwxr-xr-x 1 0   0   257376 Sep 11  2013 tdspool
+-rwxr-xr-x 1 0   0  1183992 Jan 22  2014 teckit_compile
+-rwxr-xr-x 1 0   0    31328 Mar 10  2016 tee
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 telnet -> /etc/alternatives/telnet
+-rwxr-xr-x 1 0   0    95424 Oct  2  2012 telnet.netkit
+-rwxr-xr-x 1 0   0    23184 Feb 12  2014 tesseract
+-rwxr-xr-x 1 0   0    35456 Mar 10  2016 test
+-rwxr-xr-x 1 0   0    13985 Mar 20  2014 testasciidoc
+lrwxrwxrwx 1 0   0       11 Feb 15  2014 testrb -> testrb1.9.1
+-rwxr-xr-x 1 0   0      299 Nov 19  2014 testrb1.9.1
+-rwxr-xr-x 1 0   0   315616 Jan 22  2014 tex
+-rwxr-xr-x 1 0   0    22792 Mar  7  2014 tex2xindy
+-rwxr-xr-x 1 0   0    92480 Jun  6  2012 tex4ht
+lrwxrwxrwx 1 0   0       56 Feb 17  2014 texconfig -> ../share/texlive/texmf-dist/scripts/texlive/texconfig.sh
+lrwxrwxrwx 1 0   0       63 Feb 17  2014 texconfig-dialog -> ../share/texlive/texmf-dist/scripts/texlive/texconfig-dialog.sh
+lrwxrwxrwx 1 0   0       60 Feb 17  2014 texconfig-sys -> ../share/texlive/texmf-dist/scripts/texlive/texconfig-sys.sh
+lrwxrwxrwx 1 0   0       56 Feb 20  2014 texcount -> ../share/texlive/texmf-dist/scripts/texcount/texcount.pl
+lrwxrwxrwx 1 0   0       52 Feb 20  2014 texdef -> ../share/texlive/texmf-dist/scripts/texdef/texdef.pl
+lrwxrwxrwx 1 0   0       51 Feb 20  2014 texdiff -> ../share/texlive/texmf-dist/scripts/texdiff/texdiff
+lrwxrwxrwx 1 0   0       63 Feb 20  2014 texdirflatten -> ../share/texlive/texmf-dist/scripts/texdirflatten/texdirflatten
+lrwxrwxrwx 1 0   0       53 Feb 17  2014 texdoc -> ../share/texlive/texmf-dist/scripts/texdoc/texdoc.tlu
+lrwxrwxrwx 1 0   0       56 Feb 17  2014 texdoctk -> ../share/texlive/texmf-dist/scripts/texdoctk/texdoctk.pl
+-rwxr-xr-x 1 0   0       50 Jul 31  2013 texexec
+-rwxr-xr-x 1 0   0       49 Jul 31  2013 texfind
+-rwxr-xr-x 1 0   0       49 Jul 31  2013 texfont
+lrwxrwxrwx 1 0   0        8 Jan 22  2014 texhash -> mktexlsr
+-rwxr-xr-x 1 0   0    52399 Dec 11  2013 texi2any
+-rwxr-xr-x 1 0   0    58870 Dec 11  2013 texi2dvi
+-rwxr-xr-x 1 0   0     1302 Dec 11  2013 texi2pdf
+-rwxr-xr-x 1 0   0    19048 Dec 11  2013 texindex
+-rwxr-xr-x 1 0   0    20277 Mar  7  2014 texindy
+lrwxrwxrwx 1 0   0       55 Feb 17  2014 texlinks -> ../share/texlive/texmf-dist/scripts/texlive/texlinks.sh
+lrwxrwxrwx 1 0   0       64 Feb 20  2014 texliveonfly -> ../share/texlive/texmf-dist/scripts/texliveonfly/texliveonfly.py
+lrwxrwxrwx 1 0   0       65 Feb 20  2014 texloganalyser -> ../share/texlive/texmf-dist/scripts/texloganalyser/texloganalyser
+lrwxrwxrwx 1 0   0        6 Dec 14  2013 texlua -> luatex
+lrwxrwxrwx 1 0   0        6 Dec 14  2013 texluac -> luatex
+-rwxr-xr-x 1 0   0       32 Jul 31  2013 texmfstart
+lrwxrwxrwx 1 0   0        6 Feb 20  2014 texsis -> pdftex
+-rwxr-xr-x 1 0   0    31528 Jan 22  2014 tfmtodit
+-rwxr-xr-x 1 0   0    35184 Jan 22  2014 tftopl
+lrwxrwxrwx 1 0   0       56 Feb 17  2014 thumbpdf -> ../share/texlive/texmf-dist/scripts/thumbpdf/thumbpdf.pl
+-rwxr-xr-x 1 0   0    64288 Mar 22  2014 tic
+-rwxr-xr-x 1 0   0    14504 Jan 22  2014 tie
+-rwxr-xr-x 1 0   0    52496 Mar 10  2016 timeout
+-rwxr-xr-x 1 0   0     4400 May 31  2013 tl-paper
+lrwxrwxrwx 1 0   0       52 Feb 17  2014 tlmgr -> ../share/texlive/texmf-dist/scripts/texlive/tlmgr.pl
+-rwxr-xr-x 1 0   0    14720 Feb 10  2015 tload
+-rwxr-xr-x 1 0   0   467144 Oct 21  2013 tmux
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 tnameserv -> /etc/alternatives/tnameserv
+-rwxr-xr-x 1 0   0    14704 Mar 22  2014 toe
+-rwxr-xr-x 1 0   0   100776 Feb 10  2015 top
+lrwxrwxrwx 1 0   0       10 Mar 10  2016 touch -> /bin/touch
+-rwxr-xr-x 1 0   0    12627 Jan 22  2014 tpic2pdftex
+-rwxr-xr-x 1 0   0    14744 Mar 22  2014 tput
+-rwxr-xr-x 1 0   0    43648 Mar 10  2016 tr
+-rwxr-xr-x 1 0   0    10576 Dec  5  2014 tred
+-rwxr-xr-x 1 0   0    57176 May  1  2012 tree
+-rwxr-xr-x 1 0   0   495544 Jan 22  2014 troff
+-rwxr-xr-x 1 0   0    51912 Mar 10  2016 truncate
+-rwxr-xr-x 1 0   0    18976 Mar 22  2014 tset
+-rwxr-xr-x 1 0   0    35424 Mar 10  2016 tsort
+-rwxr-xr-x 1 0   0   253424 Sep 11  2013 tsql
+-rwxr-xr-x 1 0   0    33256 Jan 22  2014 ttf2afm
+lrwxrwxrwx 1 0   0       64 Feb 17  2014 ttf2kotexfont -> ../share/texlive/texmf-dist/scripts/kotex-utils/ttf2kotexfont.pl
+-rwxr-xr-x 1 0   0    68704 Jan 22  2014 ttf2pk
+-rwxr-xr-x 1 0   0    91576 Jan 22  2014 ttf2tfm
+-rwxr-xr-x 1 0   0   101784 Jan 22  2014 ttfdump
+-rwxr-xr-x 1 0   0   289504 Feb 12  2013 ttftotype42
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 tty
+lrwxrwxrwx 1 0   0        3 Dec  5  2014 twopi -> dot
+-rwxr-xr-x 1 0   0    15021 Dec 11  2013 txixml2texi
+lrwxrwxrwx 1 0   0       70 Feb 20  2014 typeoutfileinfo -> ../share/texlive/texmf-dist/scripts/typeoutfileinfo/typeoutfileinfo.sh
+-rwxr-xr-x 1 0   0    13240 May 26  2016 tzselect
+-rwxr-xr-x 1 0   0    38832 Jul  1  2013 ucf
+-rwxr-xr-x 1 0   0    19367 Jul  1  2013 ucfq
+-rwxr-xr-x 1 0   0    10458 Jul  1  2013 ucfr
+-rwxr-xr-x 1 0   0    51608 Sep 11  2015 uconv
+lrwxrwxrwx 1 0   0       42 Mar  3  2017 uglifyjs -> ../lib/node_modules/uglify-js/bin/uglifyjs
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 uic -> qtchooser
+lrwxrwxrwx 1 0   0       35 May 27  2015 uic-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/uic
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 uic3 -> qtchooser
+-rwxr-xr-x 1 0   0    14584 Jun  4  2013 ul
+lrwxrwxrwx 1 0   0       50 Feb 20  2014 ulqda -> ../share/texlive/texmf-dist/scripts/ulqda/ulqda.pl
+-rwxr-xr-x 1 0   0    47719 Dec  3  2015 unattended-upgrade
+lrwxrwxrwx 1 0   0       18 Dec  3  2015 unattended-upgrades -> unattended-upgrade
+-rwxr-xr-x 1 0   0    31368 Mar 10  2016 unexpand
+-rwxr-xr-x 1 0   0    14672 Dec  5  2014 unflatten
+-rwxr-xr-x 1 0   0      530 Feb 18  2013 unicode_stop
+-rwxr-xr-x 1 0   0    39584 Mar 10  2016 uniq
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 unlink
+lrwxrwxrwx 1 0   0       24 Mar  3  2017 unlzma -> /etc/alternatives/unlzma
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 unpack200 -> /etc/alternatives/unpack200
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 unrar -> /etc/alternatives/unrar
+-rwxr-xr-x 1 0   0   262192 May  5  2015 unrar-nonfree
+-rwxr-xr-x 1 0   0    10432 Nov 23  2016 unshare
+lrwxrwxrwx 1 0   0        2 Feb 12  2014 unxz -> xz
+-rwxr-xr-x 1 0   0   162488 Nov  9  2015 unzip
+-rwxr-xr-x 1 0   0    76392 Nov  9  2015 unzipsfx
+-rwxr-xr-x 1 0   0   111208 Jan 22  2014 upbibtex
+-rwxr-xr-x 1 0   0    43544 Jun 15  2016 update-alternatives
+-rwxr-xr-x 1 0   0     5602 Mar 27  2014 update-gconf-defaults
+-rwxr-xr-x 1 0   0      672 Apr 11  2014 update-mime-database
+-rwxr-xr-x 1 0   0    48192 Apr 11  2014 update-mime-database.real
+-rwxr-xr-x 1 0   0     6177 Jun  1  2012 update-perl-sax-parsers
+lrwxrwxrwx 1 0   0       53 Feb 17  2014 updmap -> ../share/texlive/texmf-dist/scripts/texlive/updmap.pl
+lrwxrwxrwx 1 0   0       57 Feb 17  2014 updmap-sys -> ../share/texlive/texmf-dist/scripts/texlive/updmap-sys.sh
+-rwxr-xr-x 1 0   0    53768 Jan 22  2014 updvitype
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 uplatex -> euptex
+-rwxr-xr-x 1 0   0    61928 Jan 22  2014 uppltotf
+-rwxr-xr-x 1 0   0   367112 Jan 22  2014 uptex
+-rwxr-xr-x 1 0   0    49608 Jan 22  2014 uptftopl
+-rwxr-xr-x 1 0   0    10512 Feb 10  2015 uptime
+lrwxrwxrwx 1 0   0       49 Feb 20  2014 urlbst -> ../share/texlive/texmf-dist/scripts/urlbst/urlbst
+-rwxr-xr-x 1 0   0    31360 Mar 10  2016 users
+lrwxrwxrwx 1 0   0        6 Feb 17  2014 utf8mex -> pdftex
+-rwxr-xr-x 1 0   0   113448 Jan 14  2014 v4l2-compliance
+-rwxr-xr-x 1 0   0   163480 Jan 14  2014 v4l2-ctl
+-rwxr-xr-x 1 0   0    14616 Jan 14  2014 v4l2-sysfs-path
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 vacuumdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 0   0       37 Feb  9  2017 vacuumlo -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 0   0    51640 Jan 22  2014 vftovp
+lrwxrwxrwx 1 0   0       20 Jun 24  2016 vi -> /etc/alternatives/vi
+lrwxrwxrwx 1 0   0       22 Jun 24  2016 view -> /etc/alternatives/view
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 vim -> /etc/alternatives/vim
+-rwxr-xr-x 1 0   0  2275800 Nov 24  2016 vim.nox
+-rwxr-xr-x 1 0   0   884360 Nov 24  2016 vim.tiny
+lrwxrwxrwx 1 0   0       25 Mar  3  2017 vimdiff -> /etc/alternatives/vimdiff
+-rwxr-xr-x 1 0   0     1051 Dec  5  2014 vimdot
+-rwxr-xr-x 1 0   0     2084 Nov 24  2016 vimtutor
+-rwxr-xr-x 1 0   0    14656 Jan 22  2014 vlna
+-rwxr-xr-x 1 0   0    31120 Feb 10  2015 vmstat
+-rwxr-xr-x 1 0   0    10240 Feb 25  2014 volname
+lrwxrwxrwx 1 0   0       46 Feb 20  2014 vpe -> ../share/texlive/texmf-dist/scripts/vpe/vpe.pl
+lrwxrwxrwx 1 0   0       52 Feb 20  2014 vpl2ovp -> ../share/texlive/texmf-dist/scripts/accfonts/vpl2ovp
+lrwxrwxrwx 1 0   0       52 Feb 20  2014 vpl2vpl -> ../share/texlive/texmf-dist/scripts/accfonts/vpl2vpl
+-rwxr-xr-x 1 0   0    59776 Jan 22  2014 vptovf
+-rwxr-xr-x 1 0   0    16424 Mar 22  2014 vtk
+-rwxr-xr-x 1 0   0   342792 Mar 22  2014 vtkWrapPython
+-rwxr-xr-x 1 0   0    10424 Mar 22  2014 vtkWrapPythonInit
+-rwxr-xr-x 1 0   0   281320 Mar 22  2014 vtkWrapTcl
+-rwxr-xr-x 1 0   0    14544 Mar 22  2014 vtkWrapTclInit
+-rwxr-xr-x 1 0   0    14880 Mar 22  2014 vtkpython
+lrwxrwxrwx 1 0   0       19 Jun 24  2016 w -> /etc/alternatives/w
+-rwxr-xr-x 1 0   0    18872 Feb 10  2015 w.procps
+-rwxr-sr-x 1 0   5    19024 Nov 23  2016 wall
+-rwxr-xr-x 1 0   0    23632 Feb 10  2015 watch
+-rwxr-xr-x 1 0   0    39648 Mar 10  2016 wc
+-rwxr-xr-x 1 0   0    67968 Jan 22  2014 weave
+lrwxrwxrwx 1 0   0       52 Mar  3  2017 webdriver-manager -> ../lib/node_modules/protractor/bin/webdriver-manager
+-rwxr-xr-x 1 0   0      286 Dec  7  2016 wftopfa
+-rwxr-xr-x 1 0   0   407696 Jun 14  2016 wget
+-rwxr-xr-x 1 0   0    48112 Sep 23  2014 whatis
+-rwxr-xr-x 1 0   0    15128 Nov 23  2016 whereis
+lrwxrwxrwx 1 0   0       10 Aug 28  2013 which -> /bin/which
+-rwxr-xr-x 1 0   0    51968 Mar 10  2016 who
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 whoami
+-rwxr-xr-x 1 0   0     6176 Feb 28  2014 wish8.5
+-rwxr-xr-x 1 0   0    10376 Dec 15  2013 word-list-compress
+-rwxr-xr-x 1 0   0   133504 Jan 22  2014 wovp2ovf
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 write -> /etc/alternatives/write
+lrwxrwxrwx 1 0   0       23 Mar  3  2017 wsgen -> /etc/alternatives/wsgen
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 wsimport -> /etc/alternatives/wsimport
+lrwxrwxrwx 1 0   0       29 Mar  3  2017 www-browser -> /etc/alternatives/www-browser
+lrwxrwxrwx 1 0   0       27 Mar  3  2017 wx-config -> /etc/alternatives/wx-config
+-rwxr-xr-x 1 0   0   101824 Dec  2  2013 wxrc
+lrwxrwxrwx 1 0   0       31 Mar  3  2017 x-www-browser -> /etc/alternatives/x-www-browser
+-rwxr-xr-x 1 0   0   681464 Mar 23  2014 x264
+lrwxrwxrwx 1 0   0        7 Nov 23  2016 x86_64 -> setarch
+lrwxrwxrwx 1 0   0        9 May  2  2016 x86_64-linux-gnu-addr2line -> addr2line
+lrwxrwxrwx 1 0   0        2 May  2  2016 x86_64-linux-gnu-ar -> ar
+lrwxrwxrwx 1 0   0        2 May  2  2016 x86_64-linux-gnu-as -> as
+lrwxrwxrwx 1 0   0        7 May  2  2016 x86_64-linux-gnu-c++filt -> c++filt
+lrwxrwxrwx 1 0   0        7 Apr  7  2014 x86_64-linux-gnu-cpp -> cpp-4.8
+lrwxrwxrwx 1 0   0        7 May  7  2016 x86_64-linux-gnu-cpp-4.8 -> cpp-4.8
+lrwxrwxrwx 1 0   0        3 May  2  2016 x86_64-linux-gnu-dwp -> dwp
+lrwxrwxrwx 1 0   0        7 May  2  2016 x86_64-linux-gnu-elfedit -> elfedit
+lrwxrwxrwx 1 0   0        7 Apr  7  2014 x86_64-linux-gnu-g++ -> g++-4.8
+lrwxrwxrwx 1 0   0        7 May  7  2016 x86_64-linux-gnu-g++-4.8 -> g++-4.8
+lrwxrwxrwx 1 0   0        7 Apr  7  2014 x86_64-linux-gnu-gcc -> gcc-4.8
+lrwxrwxrwx 1 0   0        7 May  7  2016 x86_64-linux-gnu-gcc-4.8 -> gcc-4.8
+lrwxrwxrwx 1 0   0       10 Apr  7  2014 x86_64-linux-gnu-gcc-ar -> gcc-ar-4.8
+lrwxrwxrwx 1 0   0       10 May  7  2016 x86_64-linux-gnu-gcc-ar-4.8 -> gcc-ar-4.8
+lrwxrwxrwx 1 0   0       10 Apr  7  2014 x86_64-linux-gnu-gcc-nm -> gcc-nm-4.8
+lrwxrwxrwx 1 0   0       10 May  7  2016 x86_64-linux-gnu-gcc-nm-4.8 -> gcc-nm-4.8
+lrwxrwxrwx 1 0   0       14 Apr  7  2014 x86_64-linux-gnu-gcc-ranlib -> gcc-ranlib-4.8
+lrwxrwxrwx 1 0   0       14 May  7  2016 x86_64-linux-gnu-gcc-ranlib-4.8 -> gcc-ranlib-4.8
+lrwxrwxrwx 1 0   0        8 Apr  7  2014 x86_64-linux-gnu-gcov -> gcov-4.8
+lrwxrwxrwx 1 0   0        8 May  7  2016 x86_64-linux-gnu-gcov-4.8 -> gcov-4.8
+lrwxrwxrwx 1 0   0       12 Apr  7  2014 x86_64-linux-gnu-gfortran -> gfortran-4.8
+lrwxrwxrwx 1 0   0       12 May  7  2016 x86_64-linux-gnu-gfortran-4.8 -> gfortran-4.8
+lrwxrwxrwx 1 0   0        5 May  2  2016 x86_64-linux-gnu-gprof -> gprof
+lrwxrwxrwx 1 0   0        2 May  2  2016 x86_64-linux-gnu-ld -> ld
+lrwxrwxrwx 1 0   0        6 May  2  2016 x86_64-linux-gnu-ld.bfd -> ld.bfd
+lrwxrwxrwx 1 0   0        7 May  2  2016 x86_64-linux-gnu-ld.gold -> ld.gold
+lrwxrwxrwx 1 0   0        2 May  2  2016 x86_64-linux-gnu-nm -> nm
+lrwxrwxrwx 1 0   0        7 May  2  2016 x86_64-linux-gnu-objcopy -> objcopy
+lrwxrwxrwx 1 0   0        7 May  2  2016 x86_64-linux-gnu-objdump -> objdump
+lrwxrwxrwx 1 0   0       33 Dec 21  2013 x86_64-linux-gnu-python-config -> x86_64-linux-gnu-python2.7-config
+-rwxr-xr-x 1 0   0     2916 Oct 26  2016 x86_64-linux-gnu-python2.7-config
+lrwxrwxrwx 1 0   0       34 Jan 28  2015 x86_64-linux-gnu-python3.3-config -> x86_64-linux-gnu-python3.3m-config
+-rwxr-xr-x 1 0   0     1972 Jan 28  2015 x86_64-linux-gnu-python3.3m-config
+lrwxrwxrwx 1 0   0       34 Nov 17  2016 x86_64-linux-gnu-python3.4-config -> x86_64-linux-gnu-python3.4m-config
+-rwxr-xr-x 1 0   0     3156 Nov 17  2016 x86_64-linux-gnu-python3.4m-config
+lrwxrwxrwx 1 0   0       34 Jul 17  2016 x86_64-linux-gnu-python3.5-config -> x86_64-linux-gnu-python3.5m-config
+-rwxr-xr-x 1 0   0     3204 Jul 17  2016 x86_64-linux-gnu-python3.5m-config
+lrwxrwxrwx 1 0   0       34 Jan 13  2017 x86_64-linux-gnu-python3.6-config -> x86_64-linux-gnu-python3.6m-config
+-rwxr-xr-x 1 0   0     3204 Jan 13  2017 x86_64-linux-gnu-python3.6m-config
+lrwxrwxrwx 1 0   0        6 May  2  2016 x86_64-linux-gnu-ranlib -> ranlib
+lrwxrwxrwx 1 0   0        7 May  2  2016 x86_64-linux-gnu-readelf -> readelf
+lrwxrwxrwx 1 0   0        4 May  2  2016 x86_64-linux-gnu-size -> size
+lrwxrwxrwx 1 0   0        7 May  2  2016 x86_64-linux-gnu-strings -> strings
+lrwxrwxrwx 1 0   0        5 May  2  2016 x86_64-linux-gnu-strip -> strip
+-rwxr-xr-x 1 0   0    43624 Jan  6  2014 xargs
+-rwxr-xr-x 1 0   0    40304 Dec  4  2012 xauth
+-rwxr-xr-x 1 0   0    15559 Jul 18  2014 xdg-desktop-icon
+-rwxr-xr-x 1 0   0    38175 Jul 18  2014 xdg-desktop-menu
+-rwxr-xr-x 1 0   0    21469 Jul 18  2014 xdg-email
+-rwxr-xr-x 1 0   0    24667 Jul 18  2014 xdg-icon-resource
+-rwxr-xr-x 1 0   0    34208 Jul 18  2014 xdg-mime
+-rwxr-xr-x 1 0   0    13794 Jul 18  2014 xdg-open
+-rwxr-xr-x 1 0   0    25432 Jul 18  2014 xdg-screensaver
+-rwxr-xr-x 1 0   0    25565 Jul 18  2014 xdg-settings
+-rwxr-xr-x 1 0   0     3031 Jan 22  2014 xdvi
+-rwxr-xr-x 1 0   0   623632 Jan 22  2014 xdvi-xaw
+lrwxrwxrwx 1 0   0       26 Mar  3  2017 xdvi.bin -> /etc/alternatives/xdvi.bin
+-rwxr-xr-x 1 0   0   631000 Jan 22  2014 xdvipdfmx
+lrwxrwxrwx 1 0   0        5 Feb 17  2014 xelatex -> xetex
+-rwxr-xr-x 1 0   0   665736 Jan 22  2014 xetex
+-rwxr-xr-x 1 0   0   263304 Apr 28  2014 xgettext
+-rwxr-xr-x 1 0   0    27413 Mar  7  2014 xindy
+-rwxr-xr-x 1 0   0     1412 Jan 14  2014 xine-config
+-rwxr-xr-x 1 0   0    10424 Jan 14  2014 xine-list-1.1
+lrwxrwxrwx 1 0   0       21 Mar  3  2017 xjc -> /etc/alternatives/xjc
+-rwxr-xr-x 1 0   0     9944 Jan  6  2014 xkbbell
+-rwxr-xr-x 1 0   0   201784 Jan  6  2014 xkbcomp
+-rwxr-xr-x 1 0   0    31704 Jan  6  2014 xkbevd
+-rwxr-xr-x 1 0   0    97912 Jan  6  2014 xkbprint
+-rwxr-xr-x 1 0   0    17792 Jan  6  2014 xkbvleds
+-rwxr-xr-x 1 0   0    16096 Jan  6  2014 xkbwatch
+-rwxr-xr-x 1 0   0     1638 Jun  3  2016 xml2-config
+-rwxr-xr-x 1 0   0    18432 Jun  3  2016 xmlcatalog
+-rwxr-xr-x 1 0   0    64336 Jun  3  2016 xmllint
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 xmlpatterns -> qtchooser
+lrwxrwxrwx 1 0   0        9 Feb 19  2014 xmlpatternsvalidator -> qtchooser
+-rwxr-xr-x 1 0   0       68 Feb 25  2014 xrced
+-rwxr-xr-x 1 0   0     2557 Feb 23  2014 xslt-config
+-rwxr-xr-x 1 0   0     4556 Mar  1  2016 xsubpp
+-rwxr-xr-x 1 0   0    68008 Jan 22  2014 xtotroff
+-rwxr-xr-x 1 0   0     5768 Feb 12  2015 xvfb-run
+-rwxr-xr-x 1 0   0    14736 Nov 24  2016 xxd
+-rwxr-xr-x 1 0   0    68648 Feb 12  2014 xz
+lrwxrwxrwx 1 0   0        2 Feb 12  2014 xzcat -> xz
+lrwxrwxrwx 1 0   0        6 Feb 12  2014 xzcmp -> xzdiff
+-rwxr-xr-x 1 0   0     5518 Feb 12  2014 xzdiff
+lrwxrwxrwx 1 0   0        6 Feb 12  2014 xzegrep -> xzgrep
+lrwxrwxrwx 1 0   0        6 Feb 12  2014 xzfgrep -> xzgrep
+-rwxr-xr-x 1 0   0     5421 Feb 12  2014 xzgrep
+-rwxr-xr-x 1 0   0     1825 Feb 12  2014 xzless
+-rwxr-xr-x 1 0   0     2168 Feb 12  2014 xzmore
+lrwxrwxrwx 1 0   0       22 Mar  3  2017 yacc -> /etc/alternatives/yacc
+-rwxr-xr-x 1 0   0   657192 Oct 10  2013 yasm
+-rwxr-xr-x 1 0   0    27200 Mar 10  2016 yes
+-rwxr-xr-x 1 0   0   648808 Oct 10  2013 ytasm
+-rwxr-xr-x 1 0   0    14648 May 26  2016 zdump
+-rwxr-xr-x 1 0   0   188296 Oct 21  2013 zip
+-rwxr-xr-x 1 0   0    86096 Oct 21  2013 zipcloak
+-rwxr-xr-x 1 0   0    48078 Mar  1  2016 zipdetails
+-rwxr-xr-x 1 0   0     2953 Nov  9  2015 zipgrep
+-rwxr-xr-x 1 0   0   162488 Nov  9  2015 zipinfo
+-rwxr-xr-x 1 0   0    81704 Oct 21  2013 zipnote
+-rwxr-xr-x 1 0   0    81704 Oct 21  2013 zipsplit
+lrwxrwxrwx 1 0   0       28 Mar  3  2017 zsh -> /etc/alternatives/zsh-usrbin
+-rwxr-xr-x 1 0   0    47424 Sep 23  2014 zsoelim
